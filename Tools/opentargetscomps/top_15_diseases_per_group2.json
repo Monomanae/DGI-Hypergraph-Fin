@@ -1,0 +1,6690 @@
+[
+  [
+    {
+      "disease": "primary optic atrophy",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital chylothorax",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "facial dysmorphism-macrocephaly-myopia-Dandy-Walker malformation syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "classic congenital lipoid adrenal hyperplasia due to STAR deficency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "short stature, oligodontia, dysmorphic facies, and motor delay",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "non-classic congenital lipoid adrenal hyperplasia due to STAR deficency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "central hypoventilation syndrome, congenital, 2, and autonomic dysfunction",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "FOXG1 disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital disorder of glycosylation type 1E",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital herpes virus infection",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "pontocerebellar hypoplasia type 9",
+      "total_score": 0.9890840000089428,
+      "variance": 0.0
+    },
+    {
+      "disease": "X-linked congenital stationary night blindness",
+      "total_score": 0.948623920001476,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital non-communicating hydrocephalus",
+      "total_score": 0.9372559229367357,
+      "variance": 0.0
+    },
+    {
+      "disease": "combined oxidative phosphorylation deficiency 51",
+      "total_score": 0.9179090037807172,
+      "variance": 0.1996745330239219
+    },
+    {
+      "disease": "Joubert syndrome 38",
+      "total_score": 0.897254617773133,
+      "variance": 0.0
+    },
+    {
+      "disease": "meckel syndrome 14",
+      "total_score": 0.8117940930090664,
+      "variance": 0.0
+    },
+    {
+      "disease": "vulvitis",
+      "total_score": 0.8114553200416148,
+      "variance": 0.0
+    },
+    {
+      "disease": "multiple congenital anomalies-hypotonia-seizures syndrome 1",
+      "total_score": 0.8062173517589105,
+      "variance": 0.0
+    },
+    {
+      "disease": "purulent endophthalmitis",
+      "total_score": 0.7902086071814081,
+      "variance": 0.0
+    },
+    {
+      "disease": "Atelis syndrome 1",
+      "total_score": 0.7793369042666797,
+      "variance": 0.0
+    },
+    {
+      "disease": "3-hydroxy-3-methylglutaric aciduria",
+      "total_score": 0.7745149292426466,
+      "variance": 0.0
+    },
+    {
+      "disease": "short-rib thoracic dysplasia 21 without polydactyly",
+      "total_score": 0.7696258733646079,
+      "variance": 0.0
+    },
+    {
+      "disease": "tracheal disorder",
+      "total_score": 0.7441658828298794,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability, autosomal dominant 43",
+      "total_score": 0.7385032003113156,
+      "variance": 0.0
+    },
+    {
+      "disease": "Lui-Jee-Baron syndrome",
+      "total_score": 0.6911758756018289,
+      "variance": 0.0
+    },
+    {
+      "disease": "hereditary spastic paraplegia 56",
+      "total_score": 0.684559205910265,
+      "variance": 0.0
+    },
+    {
+      "disease": "multiple congenital anomalies-hypotonia-seizures syndrome",
+      "total_score": 0.669948400794708,
+      "variance": 0.0
+    },
+    {
+      "disease": "limb-girdle muscular dystrophy due to POMK deficiency",
+      "total_score": 0.6669542497372815,
+      "variance": 0.0
+    },
+    {
+      "disease": "uterine polyp",
+      "total_score": 0.6662644468350104,
+      "variance": 0.0
+    },
+    {
+      "disease": "muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 12",
+      "total_score": 0.6469569196390118,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "right aortic arch",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "epidermolysis bullosa simplex 2d, generalized, intermediate or severe, autosomal recessive",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with spasticity and poor growth",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "glycogen storage disease type 1 due to SLC37A4 mutation",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "fibroma of lung",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "isolated agenesis of gallbladder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "vitamin D deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "LRP5-related primary osteoporosis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "epilepsy-microcephaly-skeletal dysplasia syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "epidermolysis bullosa simplex 2B, generalized intermediate",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "epidermolysis bullosa simplex 2A, generalized severe",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "cervical adenoid basal carcinoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "nonsyndromic congenital nail disorder 7",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "non-syndromic polydactyly",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability, autosomal recessive 65",
+      "total_score": 1.0,
+      "variance": 0.2256532491672451
+    },
+    {
+      "disease": "chromosome 5p13 duplication syndrome",
+      "total_score": 1.0,
+      "variance": 4.978678854640505e-07
+    },
+    {
+      "disease": "PEHO-like syndrome",
+      "total_score": 0.979271707661504,
+      "variance": 0.0
+    },
+    {
+      "disease": "Alkuraya-Kucinskas syndrome",
+      "total_score": 0.9613784918337523,
+      "variance": 0.28052528228789
+    },
+    {
+      "disease": "developmental and epileptic encephalopathy 100",
+      "total_score": 0.9599740487267704,
+      "variance": 0.0
+    },
+    {
+      "disease": "heterochromia iridis",
+      "total_score": 0.944437364597936,
+      "variance": 0.0
+    },
+    {
+      "disease": "uveal cancer",
+      "total_score": 0.9286775631500744,
+      "variance": 0.0
+    },
+    {
+      "disease": "epidermolysis bullosa simplex 2C, localized",
+      "total_score": 0.910729912101618,
+      "variance": 0.0
+    },
+    {
+      "disease": "bone fragility with contractures, arterial rupture, and deafness",
+      "total_score": 0.8825184253039028,
+      "variance": 0.231153135929265
+    },
+    {
+      "disease": "restrictive dermopathy 2",
+      "total_score": 0.8660016599734919,
+      "variance": 0.0
+    },
+    {
+      "disease": "oculotrichoanal syndrome",
+      "total_score": 0.8554386192570183,
+      "variance": 0.2691197118594605
+    },
+    {
+      "disease": "neuronopathy, distal hereditary motor, autosomal recessive",
+      "total_score": 0.8539574602672576,
+      "variance": 0.0
+    },
+    {
+      "disease": "adenylosuccinate lyase deficiency",
+      "total_score": 0.835624364916302,
+      "variance": 0.2307510165087322
+    },
+    {
+      "disease": "chronic cutaneous lupus erythematosus",
+      "total_score": 0.8214676889375689,
+      "variance": 0.0
+    },
+    {
+      "disease": "arthrogryposis multiplex congenita 4, neurogenic, with agenesis of the corpus callosum",
+      "total_score": 0.8153418539563183,
+      "variance": 0.0
+    },
+    {
+      "disease": "Li-Campeau syndrome",
+      "total_score": 0.8051627128677182,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "cardiomyopathy, familial hypertrophic, 23, with or without ventricular noncompaction",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "cor triatriatum dexter",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "developmental and epileptic encephalopathy, 61",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Pelizaeus-Merzbacher disease in female carriers",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "X-linked intellectual disability, Golabi-Ito-hall type",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "retinal melanoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "cardiomyopathy, dilated, 1LL",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "fatal post-viral neurodegenerative disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "spindle cell nevus",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "X-linked intellectual disability, Schimke type",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "episodic pain syndrome, familial, 2",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "channelopathy-associated congenital insensitivity to pain, autosomal recessive",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neuropathy, hereditary sensory and autonomic, type IId",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "B-lymphoblastic leukemia/lymphoma with hypodiploidy",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "peripheral arterial occlusive disease 1",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "calvarial doughnut lesions with bone fragility and spondylometaphyseal dysplasia",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "developmental delay with variable intellectual impairment and behavioral abnormalities",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Bockenheimer syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "cavernous hemangioma of face",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "wet beriberi",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "tarsal tunnel syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "adult extraskeletal osteosarcoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "adult liposarcoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "adult malignant hemangiopericytoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "childhood epithelioid sarcoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "pediatric angiosarcoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "pediatric fibrosarcoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "posterior corneal dystrophy",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "complex sleep apnea",
+      "total_score": 1.0,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "familial hyperreninemic hypoaldosteronism type 2",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "steroid inherited metabolic disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hypotonia-failure to thrive-microcephaly syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal dominant oculocutaneous albinism",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "pontocerebellar hypoplasia type 10",
+      "total_score": 0.9952709231529984,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual developmental disorder with or without peripheral neuropathy",
+      "total_score": 0.9459463030146094,
+      "variance": 0.0
+    },
+    {
+      "disease": "vertebral, cardiac, tracheoesophageal, renal, and limb defects",
+      "total_score": 0.8861319658680046,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodegeneration with developmental delay, early respiratory failure, myoclonic seizures, and brain abnormalities",
+      "total_score": 0.8624724853131563,
+      "variance": 0.0
+    },
+    {
+      "disease": "Kaya-Barakat-Masson syndrome",
+      "total_score": 0.8447668655023182,
+      "variance": 0.0
+    },
+    {
+      "disease": "hereditary spastic paraplegia 28",
+      "total_score": 0.8211588191607891,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with cerebral atrophy and variable facial dysmorphism",
+      "total_score": 0.8171310357011882,
+      "variance": 0.0
+    },
+    {
+      "disease": "adenosine kinase deficiency",
+      "total_score": 0.7564863145974359,
+      "variance": 0.0
+    },
+    {
+      "disease": "infantile-onset ascending hereditary spastic paralysis",
+      "total_score": 0.7292403889727423,
+      "variance": 0.2899149947896596
+    },
+    {
+      "disease": "infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly",
+      "total_score": 0.684912890168782,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal dominant Charcot-Marie-Tooth disease type 2W",
+      "total_score": 0.6804511351081978,
+      "variance": 0.2679542972052586
+    },
+    {
+      "disease": "neurocardiofaciodigital syndrome",
+      "total_score": 0.6286569456194862,
+      "variance": 0.0
+    },
+    {
+      "disease": "xeroderma pigmentosum group A",
+      "total_score": 0.6203474032390991,
+      "variance": 0.0
+    },
+    {
+      "disease": "ichthyosiform erythroderma, corneal involvement, and hearing loss",
+      "total_score": 0.6078975354342446,
+      "variance": 0.0
+    },
+    {
+      "disease": "Faundes-Banka syndrome",
+      "total_score": 0.5657978160680455,
+      "variance": 0.0
+    },
+    {
+      "disease": "ALG12-congenital disorder of glycosylation",
+      "total_score": 0.5524346910809801,
+      "variance": 0.3147379484190332
+    },
+    {
+      "disease": "scimitar anomaly, multiple cardiac malformations, and craniofacial and central nervous system abnormalities",
+      "total_score": 0.5,
+      "variance": 0.0
+    },
+    {
+      "disease": "chromosome Xp11.22 duplication syndrome",
+      "total_score": 0.5,
+      "variance": 0.0
+    },
+    {
+      "disease": "1p21.3 microdeletion syndrome",
+      "total_score": 0.4997646505060012,
+      "variance": 0.0
+    },
+    {
+      "disease": "immunodeficiency 87 and autoimmunity",
+      "total_score": 0.4414785682023103,
+      "variance": 0.0
+    },
+    {
+      "disease": "Usher syndrome type 3B",
+      "total_score": 0.401508548712164,
+      "variance": 0.1268502605667227
+    },
+    {
+      "disease": "fatty acid hydroxylase-associated neurodegeneration",
+      "total_score": 0.3939596549894871,
+      "variance": 0.1378026769299515
+    },
+    {
+      "disease": "developmental and epileptic encephalopathy, 2",
+      "total_score": 0.3821287354629399,
+      "variance": 0.0
+    },
+    {
+      "disease": "creatine transporter deficiency",
+      "total_score": 0.3792795094902508,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital cataracts-facial dysmorphism-neuropathy syndrome",
+      "total_score": 0.3701808339998975,
+      "variance": 0.0
+    },
+    {
+      "disease": "malignant triton tumor",
+      "total_score": 0.3194504883688078,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "skin disease caused by bacterial infection",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "chromosome 5Q14.3 deletion syndrome, distal",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "multiple fibroadenoma of the breast",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "East Texas bleeding disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hydatidiform mole, recurrent, 1",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "benign neoplasm of placenta",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitochondrial complex 4 deficiency, nuclear type 12",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "obsolete rare genetic epilepsy",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability, autosomal dominant 8",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "obsolete biliary atresia disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "AFib amyloidosis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "thrombophilia due to activated protein C resistance",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "de Sanctis-Cacchione syndrome",
+      "total_score": 0.9924732392105052,
+      "variance": 0.0
+    },
+    {
+      "disease": "focal segmental glomerulosclerosis and neurodevelopmental syndrome",
+      "total_score": 0.858716547764905,
+      "variance": 0.2448319220156902
+    },
+    {
+      "disease": "mitochondrial DNA depletion syndrome 14 (cardioencephalomyopathic type)",
+      "total_score": 0.8468355589800949,
+      "variance": 0.0
+    },
+    {
+      "disease": "high myopia-sensorineural deafness syndrome",
+      "total_score": 0.7968204899257343,
+      "variance": 0.0
+    },
+    {
+      "disease": "cerebrooculofacioskeletal syndrome 1",
+      "total_score": 0.7720192228062054,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with hypotonia, neuropathy, and deafness",
+      "total_score": 0.7605299961924565,
+      "variance": 0.0
+    },
+    {
+      "disease": "ataxia, intention tremor, and hypotonia syndrome, childhood-onset",
+      "total_score": 0.7465236865685769,
+      "variance": 0.0
+    },
+    {
+      "disease": "pulmonary venoocclusive disease 1",
+      "total_score": 0.7048889915667601,
+      "variance": 0.0
+    },
+    {
+      "disease": "spinal cord cancer",
+      "total_score": 0.6533643076412511,
+      "variance": 0.0
+    },
+    {
+      "disease": "developmental and epileptic encephalopathy 101",
+      "total_score": 0.6476141603164546,
+      "variance": 0.0
+    },
+    {
+      "disease": "microcephaly with or without chorioretinopathy, lymphedema, or intellectual disability",
+      "total_score": 0.6399692747349625,
+      "variance": 0.0
+    },
+    {
+      "disease": "beta-mannosidosis",
+      "total_score": 0.5735582726051791,
+      "variance": 0.0
+    },
+    {
+      "disease": "multifocal dystonia",
+      "total_score": 0.5641025641025641,
+      "variance": 0.0
+    },
+    {
+      "disease": "severe hypotonia-psychomotor developmental delay-strabismus-cardiac septal defect syndrome",
+      "total_score": 0.548923579705809,
+      "variance": 0.0
+    },
+    {
+      "disease": "Sifrim-Hitz-Weiss syndrome",
+      "total_score": 0.5440006981656549,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with or without hyperkinetic movements and seizures, autosomal recessive",
+      "total_score": 0.5053315422800919,
+      "variance": 0.2195566044303444
+    },
+    {
+      "disease": "autosomal dominant optic atrophy plus syndrome",
+      "total_score": 0.5048633862394796,
+      "variance": 0.1889380688941989
+    },
+    {
+      "disease": "cutaneous adenocystic carcinoma",
+      "total_score": 0.4985192497532082,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "inherited pseudoxanthoma elasticum",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability, autosomal dominant 29",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "laryngeal adenoid cystic carcinoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "melanoma, cutaneous malignant, susceptibility to, 9",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal recessive dyskeratosis congenita 4",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "transcobalamin I deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "platelet-type bleeding disorder 14",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "cervical mucinous adenocarcinoma, minimal deviation variant",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "ALK-negative anaplastic large cell lymphoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "spondyloepimetaphyseal dysplasia-abnormal dentition syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "inherited renal tubular disease",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "omphalocele syndrome, Shprintzen-Goldberg type",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "laryngeal mucoepidermoid carcinoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "cutaneous focal mucinosis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "colon leiomyoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "peroxisome biogenesis disorder, complementation group K",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "chromosome 2p16.3 deletion syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "nerve root neoplasm",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital pseudoarthrosis of the limbs",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "autonomic nervous system neoplasm",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "obsolete mitochondrial disorder due to a defect in assembly or maturation of the respiratory chain complexes",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Charcot-Marie-Tooth disease axonal type 2V",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "contractures, pterygia, and variable skeletal fusions syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "signet ring cell breast carcinoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "juvenile myasthenia gravis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "syphilitic aortitis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "infantile-onset mesial temporal lobe epilepsy with severe cognitive regression",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hypertrophic cardiomyopathy 2",
+      "total_score": 1.0,
+      "variance": 0.1730585279460209
+    },
+    {
+      "disease": "Chandler syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "purine metabolism disease",
+      "total_score": 1.0,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "gamma-amino butyric acid metabolism disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "vagina leiomyosarcoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitochondrial complex 5 (ATP synthase) deficiency, nuclear type 6",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hereditary thrombocytosis with transverse limb defect",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "disorder of manganese transport",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "D,L-2-hydroxyglutaric aciduria",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Braddock syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability-obesity-brain malformations-facial dysmorphism syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "disorder of acid-base balance",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "erythema palmare hereditarium",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "fourth cranial nerve palsy",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hypomagnesemia, seizures, and intellectual disability",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "adult spinal cord ependymoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hereditary angioedema type 2",
+      "total_score": 0.9937758439350498,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability, autosomal recessive 13",
+      "total_score": 0.9913588906657432,
+      "variance": 0.0
+    },
+    {
+      "disease": "2-hydroxyglutaric aciduria",
+      "total_score": 0.9845655261716092,
+      "variance": 0.0
+    },
+    {
+      "disease": "inflammatory bowel disease 25",
+      "total_score": 0.9685374147953032,
+      "variance": 0.0
+    },
+    {
+      "disease": "hypomyelinating leukodystrophy 12",
+      "total_score": 0.9602515808857216,
+      "variance": 0.0
+    },
+    {
+      "disease": "bladder neck obstruction",
+      "total_score": 0.9575527028433074,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual developmental disorder with neuropsychiatric features",
+      "total_score": 0.9557940079071482,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual developmental disorder with hypotonia, impaired speech, and dysmorphic facies",
+      "total_score": 0.9549534088840428,
+      "variance": 0.0
+    },
+    {
+      "disease": "obsolete SYNGAP1-related developmental and epileptic encephalopathy",
+      "total_score": 0.9485424277930208,
+      "variance": 0.0
+    },
+    {
+      "disease": "combined oxidative phosphorylation deficiency 45",
+      "total_score": 0.9287467410300734,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder and structural brain anomalies with or without seizures and spasticity",
+      "total_score": 0.9201025776313342,
+      "variance": 0.0
+    },
+    {
+      "disease": "Rh isoimmunization",
+      "total_score": 0.8858397365532384,
+      "variance": 0.0
+    },
+    {
+      "disease": "RFT1-congenital disorder of glycosylation",
+      "total_score": 0.8768227368720392,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with dysmorphic facies and thin corpus callosum",
+      "total_score": 0.8648449999123691,
+      "variance": 0.0
+    },
+    {
+      "disease": "chronic conjunctivitis",
+      "total_score": 0.861293751046813,
+      "variance": 0.0
+    },
+    {
+      "disease": "Gaucher disease type II",
+      "total_score": 0.8419288968042188,
+      "variance": 0.296943555678037
+    },
+    {
+      "disease": "neurodevelopmental disorder with epilepsy, cataracts, feeding difficulties, and delayed brain myelination",
+      "total_score": 0.8347050451758062,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "CIC-rearranged sarcoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "infant-type hemispheric glioma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "pancreatic cancer, susceptibility to, 4",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "epidermolysis bullosa, junctional 3A, intermediate",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "epidermolysis bullosa, junctional 3B, severe",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "split foot",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "large intestine disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neoplasm of myocardium",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with seizures, microcephaly, and brain abnormalities",
+      "total_score": 0.9559330208511052,
+      "variance": 0.0
+    },
+    {
+      "disease": "severe intellectual disability-poor language-strabismus-grimacing face-long fingers syndrome",
+      "total_score": 0.8420924895240792,
+      "variance": 0.0
+    },
+    {
+      "disease": "Fanconi anemia, complementation group S",
+      "total_score": 0.7584965213618198,
+      "variance": 0.0
+    },
+    {
+      "disease": "cystic leukoencephalopathy without megalencephaly",
+      "total_score": 0.6331637741915996,
+      "variance": 0.2740064007633465
+    },
+    {
+      "disease": "atypical hemolytic-uremic syndrome with DGKE deficiency",
+      "total_score": 0.5944850838203732,
+      "variance": 0.0
+    },
+    {
+      "disease": "peroxisome biogenesis disorder 11B",
+      "total_score": 0.575787474837016,
+      "variance": 0.0
+    },
+    {
+      "disease": "primary CD59 deficiency",
+      "total_score": 0.5073843865667336,
+      "variance": 0.0
+    },
+    {
+      "disease": "benign struma ovarii",
+      "total_score": 0.5,
+      "variance": 0.0
+    },
+    {
+      "disease": "mosaic trisomy 17",
+      "total_score": 0.4892763062711321,
+      "variance": 0.0
+    },
+    {
+      "disease": "CODAS syndrome",
+      "total_score": 0.477275665269079,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with progressive microcephaly, spasticity, and brain anomalies",
+      "total_score": 0.4625984259402535,
+      "variance": 0.0
+    },
+    {
+      "disease": "obesity, hyperphagia, and developmental delay",
+      "total_score": 0.4519587897505161,
+      "variance": 0.0
+    },
+    {
+      "disease": "dihydropteridine reductase deficiency",
+      "total_score": 0.4493509725545693,
+      "variance": 0.0
+    },
+    {
+      "disease": "anuria",
+      "total_score": 0.4166666666666667,
+      "variance": 0.0
+    },
+    {
+      "disease": "breast fibroepithelial neoplasm",
+      "total_score": 0.3956108297145935,
+      "variance": 0.0
+    },
+    {
+      "disease": "peroxisome biogenesis disorder 11A (Zellweger)",
+      "total_score": 0.3842172590329598,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital plasminogen activator inhibitor type 1 deficiency",
+      "total_score": 0.377726004137399,
+      "variance": 0.2266887285135941
+    },
+    {
+      "disease": "3p- syndrome",
+      "total_score": 0.3715179480320698,
+      "variance": 0.0
+    },
+    {
+      "disease": "early onset hypertension",
+      "total_score": 0.3710137448577092,
+      "variance": 0.0
+    },
+    {
+      "disease": "punctate palmoplantar keratoderma type 2",
+      "total_score": 0.3627364522535005,
+      "variance": 0.0
+    },
+    {
+      "disease": "lobomycosis",
+      "total_score": 0.3567073170731707,
+      "variance": 0.0
+    },
+    {
+      "disease": "retroperitoneal cancer",
+      "total_score": 0.3537114244931285,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "trichothiodystrophy 8, nonphotosensitive",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "functioning pituitary gland neoplasm",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "ring chromosome 15",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "functioning endocrine neoplasm",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "inborn metal metabolism disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "thymic adenosquamous carcinoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitochondrial complex 5 (ATP synthase) deficiency, mitochondrial type 1",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "harlequin syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "third cranial nerve disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "lung leiomyoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "immunodeficiency 101 (varicella zoster virus-specific)",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "adrenal cortex disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "ureteral lymphoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "basal ganglia calcification, idiopathic, childhood-onset",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hereditary thrombocytopenia and hematologic cancer predisposition syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mosaic trisomy 6",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "plasma protein metabolism disease",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "maternal riboflavin deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "uveal disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "epithelial-stromal TGFBI dystrophy",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "superficial corneal dystrophy",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "orofacial cleft 8",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "split hand",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "arthrogryposis, distal, type 2B4",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "carcinoma in situ of nasopharynx",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "isolated Dandy-Walker malformation without hydrocephalus",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital brain dysgenesis due to glutamine synthetase deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "focal palmoplantar keratoderma with joint keratoses",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "developmental and epileptic encephalopathy, 48",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "cerebral lipidosis with dementia",
+      "total_score": 1.0,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "autosomal recessive secondary polycythemia not associated with VHL gene",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "teeth, supernumerary",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "spinal cord sarcoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual developmental disorder with muscle tone abnormalities and distal skeletal defects",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Leydig cell hypoplasia due to complete LH resistance",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Leydig cell hypoplasia due to partial LH resistance",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "ring chromosome 12",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "lipoic acid synthetase deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "osteopoikilosis",
+      "total_score": 0.9628233475769712,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodegeneration, childhood-onset, with multisystem involvement due to mitochondrial dysfunction",
+      "total_score": 0.9625706292802986,
+      "variance": 0.0
+    },
+    {
+      "disease": "growth and developmental delay-hypotonia-vision impairment-lactic acidosis syndrome",
+      "total_score": 0.9207878088551308,
+      "variance": 0.0
+    },
+    {
+      "disease": "hemihyperplasia-multiple lipomatosis syndrome",
+      "total_score": 0.912145819945086,
+      "variance": 0.0
+    },
+    {
+      "disease": "granular cell cancer",
+      "total_score": 0.8905852417302803,
+      "variance": 0.0
+    },
+    {
+      "disease": "Coffin-Siris syndrome 11",
+      "total_score": 0.6401658458515176,
+      "variance": 0.0
+    },
+    {
+      "disease": "X-linked intellectual disability, Pai type",
+      "total_score": 0.5008936018110329,
+      "variance": 0.0
+    },
+    {
+      "disease": "chromosome 1q21.1 duplication syndrome",
+      "total_score": 0.4975198984888678,
+      "variance": 0.0
+    },
+    {
+      "disease": "distal trisomy 15q",
+      "total_score": 0.4966639353856964,
+      "variance": 0.0
+    },
+    {
+      "disease": "paternal uniparental disomy of chromosome 6",
+      "total_score": 0.4893992932862193,
+      "variance": 0.0
+    },
+    {
+      "disease": "Noonan syndrome-like disorder with loose anagen hair",
+      "total_score": 0.4059281348693108,
+      "variance": 0.0
+    },
+    {
+      "disease": "central nervous system rhabdomyosarcoma",
+      "total_score": 0.391304347826087,
+      "variance": 0.0
+    },
+    {
+      "disease": "maternal uniparental disomy of chromosome 1",
+      "total_score": 0.3414260717410324,
+      "variance": 0.0
+    },
+    {
+      "disease": "Xp22.13p22.2 duplication syndrome",
+      "total_score": 0.3327395244365268,
+      "variance": 0.0
+    },
+    {
+      "disease": "peripheral precocious puberty",
+      "total_score": 0.3187705222203079,
+      "variance": 0.0
+    },
+    {
+      "disease": "bowel dysfunction",
+      "total_score": 0.3160218708517365,
+      "variance": 0.0
+    },
+    {
+      "disease": "segmental progressive overgrowth syndrome with fibroadipose hyperplasia",
+      "total_score": 0.3143961352657,
+      "variance": 0.0
+    },
+    {
+      "disease": "hypothyroidism due to deficient transcription factors involved in pituitary development or function",
+      "total_score": 0.3142241576825427,
+      "variance": 3.579875151126553e-05
+    },
+    {
+      "disease": "non-acquired combined pituitary hormone deficiency with spine abnormalities",
+      "total_score": 0.3066139779628289,
+      "variance": 0.0
+    },
+    {
+      "disease": "duplication/inversion 15q11",
+      "total_score": 0.289874730710923,
+      "variance": 0.0
+    },
+    {
+      "disease": "gonadal disorder",
+      "total_score": 0.2666353162473558,
+      "variance": 0.0
+    },
+    {
+      "disease": "leukoencephalopathy with mild cerebellar ataxia and white matter edema",
+      "total_score": 0.2656796586249424,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "stuttering, familial persistent, 1",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "obsolete autosomal dominant limb-girdle muscular dystrophy type 1C",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "erythroid neoplasm",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "inherited prekallikrein deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal recessive familial Mediterranean fever",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "olecranon bursitis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "obsolete rare hemorrhagic disorder due to a constitutional coagulation factors defect",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "qualitative or quantitative defects of delta-sarcoglycan",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "complex cortical dysplasia with other brain malformations 6",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "obsolete female infertility due to an implantation defect of genetic origin",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "rippling muscle disease",
+      "total_score": 0.9920791756521962,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability, autosomal dominant 53",
+      "total_score": 0.9905021359362638,
+      "variance": 0.0
+    },
+    {
+      "disease": "qualitative or quantitative defects of alpha-sarcoglycan",
+      "total_score": 0.9760492786092616,
+      "variance": 0.0
+    },
+    {
+      "disease": "prekallikrein deficiency",
+      "total_score": 0.9728548719218044,
+      "variance": 0.1857758277213641
+    },
+    {
+      "disease": "neurodevelopmental disorder with coarse facies and mild distal skeletal abnormalities",
+      "total_score": 0.9618255864394156,
+      "variance": 0.0
+    },
+    {
+      "disease": "spinocerebellar ataxia 42, early-onset, severe, with neurodevelopmental deficits",
+      "total_score": 0.9596613166742616,
+      "variance": 0.0
+    },
+    {
+      "disease": "3-methylglutaconic aciduria type 9",
+      "total_score": 0.9193925243412172,
+      "variance": 0.0
+    },
+    {
+      "disease": "X-linked deafness",
+      "total_score": 0.8726562057368751,
+      "variance": 0.054935163561209
+    },
+    {
+      "disease": "Webb-Dattani syndrome",
+      "total_score": 0.8364793055316058,
+      "variance": 0.0
+    },
+    {
+      "disease": "liver disease, severe congenital",
+      "total_score": 0.823740534342904,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability, X-linked 93",
+      "total_score": 0.8208591949009347,
+      "variance": 0.2357083211573009
+    },
+    {
+      "disease": "caveolinopathy",
+      "total_score": 0.8171569380768267,
+      "variance": 0.0867411688513952
+    },
+    {
+      "disease": "Alzahrani-Kuwahara syndrome",
+      "total_score": 0.7796010508978746,
+      "variance": 0.0
+    },
+    {
+      "disease": "psychosexual disorder",
+      "total_score": 0.7598828203661634,
+      "variance": 0.0
+    },
+    {
+      "disease": "Houge-Janssens syndrome 3",
+      "total_score": 0.7500721633475615,
+      "variance": 0.0
+    },
+    {
+      "disease": "intraventricular meningioma",
+      "total_score": 0.7475898334794047,
+      "variance": 0.0
+    },
+    {
+      "disease": "maturity-onset diabetes of the young type 2",
+      "total_score": 0.719344021402931,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual developmental disorder, autosomal dominant 65",
+      "total_score": 0.7151503446715198,
+      "variance": 0.0
+    },
+    {
+      "disease": "short-rib thoracic dysplasia 14 with polydactyly",
+      "total_score": 0.713750417225012,
+      "variance": 0.0
+    },
+    {
+      "disease": "hereditary spastic paraplegia 51",
+      "total_score": 0.6954325075307957,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "Sandhoff disease, infantile form",
+      "total_score": 1.0,
+      "variance": 0.1433182626237928
+    },
+    {
+      "disease": "autosomal recessive frontotemporal pachygyria",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "syndromic X-linked intellectual disability Raymond type",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "respirovirus infectious disease",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "retinitis pigmentosa 94, variable age at onset",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "adult medulloblastoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "febrile seizures, familial, 3a",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "obsolete blepharophimosis - intellectual disability syndrome due to UBE3B deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "scrotum neoplasm",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "combined oxidative phosphorylation defect type 25",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Silver-Russell syndrome 5",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mouth mucosa disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "FASTKD2-related infantile mitochondrial encephalomyopathy",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "permanent congenital hypothyroidism",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "migraine, familial hemiplegic, 3",
+      "total_score": 0.9943892558820052,
+      "variance": 0.0
+    },
+    {
+      "disease": "nonsyndromic congenital nail disorder 4",
+      "total_score": 0.9906642165575352,
+      "variance": 0.0
+    },
+    {
+      "disease": "inherited blood coagulation disorder",
+      "total_score": 0.9900990099009902,
+      "variance": 0.0
+    },
+    {
+      "disease": "atelosteogenesis",
+      "total_score": 0.9897031844329012,
+      "variance": 0.0
+    },
+    {
+      "disease": "peroxisome biogenesis disorder 12A (Zellweger)",
+      "total_score": 0.9593029901236504,
+      "variance": 0.0
+    },
+    {
+      "disease": "X-linked intellectual disability-hypotonia-movement disorder syndrome",
+      "total_score": 0.942737430167598,
+      "variance": 0.0
+    },
+    {
+      "disease": "lip disorder",
+      "total_score": 0.94247033565469,
+      "variance": 0.0
+    },
+    {
+      "disease": "mesial temporal lobe epilepsy with hippocampal sclerosis",
+      "total_score": 0.9318135764151269,
+      "variance": 0.0
+    },
+    {
+      "disease": "soft tissue chondroma",
+      "total_score": 0.925994449583719,
+      "variance": 6.829463449434858e-08
+    },
+    {
+      "disease": "isolated congenital anonychia",
+      "total_score": 0.9115276555592076,
+      "variance": 0.0
+    },
+    {
+      "disease": "visual pathway disorder",
+      "total_score": 0.9014981766817248,
+      "variance": 0.0
+    },
+    {
+      "disease": "paranasal sinus disorder",
+      "total_score": 0.8843144478711532,
+      "variance": 0.0
+    },
+    {
+      "disease": "Ogden syndrome",
+      "total_score": 0.8724635340077145,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability, X-linked 21",
+      "total_score": 0.8709551777453206,
+      "variance": 0.0
+    },
+    {
+      "disease": "PURA-related severe neonatal hypotonia-seizures-encephalopathy syndrome due to a point mutation",
+      "total_score": 0.8683388270810501,
+      "variance": 0.2897044511810956
+    },
+    {
+      "disease": "keratosis pilaris atrophicans",
+      "total_score": 0.8524276728536959,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "atypical hemolytic-uremic syndrome with anti-factor H antibodies",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Li-Ghorbani-Weisz-Hubshman syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "bilateral frontal polymicrogyria",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neonatal epilepsy syndrome",
+      "total_score": 1.0,
+      "variance": 2.7317853797752785e-07
+    },
+    {
+      "disease": "PrP systemic amyloidosis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal recessive nonsyndromic hearing loss 89",
+      "total_score": 0.978792415210734,
+      "variance": 0.0
+    },
+    {
+      "disease": "Keppen-Lubinsky syndrome",
+      "total_score": 0.965106765197946,
+      "variance": 0.2750269582205153
+    },
+    {
+      "disease": "kuru",
+      "total_score": 0.9197687083071682,
+      "variance": 0.0
+    },
+    {
+      "disease": "leukoencephalopathy, progressive, infantile-onset, with or without deafness",
+      "total_score": 0.8477533005719896,
+      "variance": 0.0
+    },
+    {
+      "disease": "iatrogenic Creutzfeldt-Jakob disease",
+      "total_score": 0.8400000000000001,
+      "variance": 0.0
+    },
+    {
+      "disease": "hereditary spastic paraplegia 64",
+      "total_score": 0.8239122502823368,
+      "variance": 0.0
+    },
+    {
+      "disease": "deafness, congenital, and adult-onset progressive leukoencephalopathy",
+      "total_score": 0.8075526135613134,
+      "variance": 0.0
+    },
+    {
+      "disease": "fatal familial insomnia",
+      "total_score": 0.7677068343322145,
+      "variance": 0.0
+    },
+    {
+      "disease": "transient pseudohypoaldosteronism",
+      "total_score": 0.7142857142857143,
+      "variance": 0.0
+    },
+    {
+      "disease": "central nervous system calcification-deafness-tubular acidosis-anemia syndrome",
+      "total_score": 0.7041261794113507,
+      "variance": 0.0
+    },
+    {
+      "disease": "disorder of uterine broad ligament",
+      "total_score": 0.6846849700473295,
+      "variance": 0.0
+    },
+    {
+      "disease": "fallopian tube disorder",
+      "total_score": 0.6615273619661358,
+      "variance": 0.0
+    },
+    {
+      "disease": "frontometaphyseal dysplasia 2",
+      "total_score": 0.6579625454619146,
+      "variance": 0.0
+    },
+    {
+      "disease": "Koolen-de Vries syndrome due to a point mutation",
+      "total_score": 0.6155285543696373,
+      "variance": 0.0
+    },
+    {
+      "disease": "iatrogenic botulism",
+      "total_score": 0.6116148098856525,
+      "variance": 0.0
+    },
+    {
+      "disease": "sporadic Creutzfeld Jacob disease",
+      "total_score": 0.4268598528488691,
+      "variance": 0.0
+    },
+    {
+      "disease": "Charcot-Marie-Tooth disease type 2R",
+      "total_score": 0.4176901228241185,
+      "variance": 0.0
+    },
+    {
+      "disease": "ring chromosome 17",
+      "total_score": 0.4166666666666667,
+      "variance": 0.0
+    },
+    {
+      "disease": "benign vaginal neoplasm",
+      "total_score": 0.408685110179084,
+      "variance": 0.0
+    },
+    {
+      "disease": "microcephaly, cataracts, impaired intellectual development, and dystonia with abnormal striatum",
+      "total_score": 0.3678134788302678,
+      "variance": 0.0
+    },
+    {
+      "disease": "EAST syndrome",
+      "total_score": 0.3590187953206951,
+      "variance": 0.2086020436780997
+    },
+    {
+      "disease": "small cell carcinoma",
+      "total_score": 0.356571872107595,
+      "variance": 0.0051905813451762
+    },
+    {
+      "disease": "inherited Creutzfeldt-Jakob disease",
+      "total_score": 0.3550449131423165,
+      "variance": 0.1971230975435858
+    },
+    {
+      "disease": "autosomal recessive spinocerebellar ataxia 16",
+      "total_score": 0.3381325173078824,
+      "variance": 0.1149861165421033
+    },
+    {
+      "disease": "spinal cord injury",
+      "total_score": 0.3286244175129973,
+      "variance": 0.0114357494026456
+    }
+  ],
+  [
+    {
+      "disease": "hypertrophic cardiomyopathy 19",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "chromosome 17p13.3 duplication syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "vitamin K-dependent clotting factors, combined deficiency of, type 2",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "8q12 microduplication syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "xerosis and growth failure with immune and pulmonary dysfunction syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "MAN1B1-congenital disorder of glycosylation",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "juvenile arthritis due to defect in LACC1",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with brain anomalies and with or without vertebral or cardiac anomalies",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "peroxisome biogenesis disorder 4B",
+      "total_score": 0.998140319738394,
+      "variance": 0.0
+    },
+    {
+      "disease": "Bardet-Biedl syndrome 15",
+      "total_score": 0.9978518702122996,
+      "variance": 0.0
+    },
+    {
+      "disease": "Rafiq syndrome",
+      "total_score": 0.9625799868731754,
+      "variance": 0.2690995566862552
+    },
+    {
+      "disease": "LAMA2-related muscular dystrophy",
+      "total_score": 0.957669305757462,
+      "variance": 0.0
+    },
+    {
+      "disease": "Baralle-Macken syndrome",
+      "total_score": 0.9459776203866086,
+      "variance": 0.0
+    },
+    {
+      "disease": "DDOST-congenital disorder of glycosylation",
+      "total_score": 0.912281054496282,
+      "variance": 0.0
+    },
+    {
+      "disease": "DEGCAGS syndrome",
+      "total_score": 0.8783813888481202,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitochondrial complex 4 deficiency, nuclear type 14",
+      "total_score": 0.8671341755209103,
+      "variance": 0.0
+    },
+    {
+      "disease": "pontocerebellar hypoplasia, type 16",
+      "total_score": 0.8551318234633013,
+      "variance": 0.0
+    },
+    {
+      "disease": "nystagmus, congenital, autosomal recessive",
+      "total_score": 0.8532409294741135,
+      "variance": 0.0
+    },
+    {
+      "disease": "nephrolithiasis/osteoporosis, hypophosphatemic",
+      "total_score": 0.8496314926328588,
+      "variance": 0.0
+    },
+    {
+      "disease": "X-linked chondrodysplasia punctata 2",
+      "total_score": 0.7825299683379846,
+      "variance": 0.2683019180604028
+    },
+    {
+      "disease": "peroxisome biogenesis disorder 4A (Zellweger)",
+      "total_score": 0.781671682094805,
+      "variance": 0.0
+    },
+    {
+      "disease": "gonococcal infection of joint",
+      "total_score": 0.75,
+      "variance": 0.0
+    },
+    {
+      "disease": "Stankiewicz-Isidor syndrome",
+      "total_score": 0.7382610421130906,
+      "variance": 0.2268509212071724
+    },
+    {
+      "disease": "methylcobalamin deficiency type cblG",
+      "total_score": 0.7184112617182258,
+      "variance": 0.0
+    },
+    {
+      "disease": "L1 syndrome",
+      "total_score": 0.7072979895258196,
+      "variance": 0.0
+    },
+    {
+      "disease": "familial cold autoinflammatory syndrome 4",
+      "total_score": 0.6945229842984739,
+      "variance": 0.0
+    },
+    {
+      "disease": "hyperammonemia due to N-acetylglutamate synthase deficiency",
+      "total_score": 0.6565604353595582,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitochondrial complex V (ATP synthase) deficiency, nuclear type 1",
+      "total_score": 0.647499995385793,
+      "variance": 0.0
+    },
+    {
+      "disease": "neuronopathy, distal hereditary motor, type 5B",
+      "total_score": 0.6198908794214216,
+      "variance": 0.1459808853243769
+    },
+    {
+      "disease": "muscular dystrophy-dystroglycanopathy type B6",
+      "total_score": 0.6181503248464727,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "Hennekam lymphangiectasia-lymphedema syndrome 2",
+      "total_score": 0.9962519774499436,
+      "variance": 0.0
+    },
+    {
+      "disease": "Vissers-Bodmer syndrome",
+      "total_score": 0.9527581887797264,
+      "variance": 0.0
+    },
+    {
+      "disease": "holoprosencephaly 12 with or without pancreatic agenesis",
+      "total_score": 0.8500869291680363,
+      "variance": 0.0
+    },
+    {
+      "disease": "Frey syndrome",
+      "total_score": 0.8459958932238197,
+      "variance": 0.0
+    },
+    {
+      "disease": "multiple mitochondrial dysfunctions syndrome 4",
+      "total_score": 0.8232706617924697,
+      "variance": 0.0
+    },
+    {
+      "disease": "epidermolysis bullosa, junctional 7, with interstitial lung disease and nephrotic syndrome",
+      "total_score": 0.7171071839741449,
+      "variance": 0.0
+    },
+    {
+      "disease": "oculopharyngeal myopathy with leukoencephalopathy 1",
+      "total_score": 0.6781448969596506,
+      "variance": 0.0
+    },
+    {
+      "disease": "isolated anhidrosis with normal sweat glands",
+      "total_score": 0.6387942351759984,
+      "variance": 0.0
+    },
+    {
+      "disease": "van Maldergem syndrome",
+      "total_score": 0.6064454450482372,
+      "variance": 0.0
+    },
+    {
+      "disease": "Whipple disease",
+      "total_score": 0.5964418567114169,
+      "variance": 0.0
+    },
+    {
+      "disease": "syndromic multisystem autoimmune disease due to ITCH deficiency",
+      "total_score": 0.5784125360064285,
+      "variance": 0.0
+    },
+    {
+      "disease": "follicular lymphoma, susceptibility to, 1",
+      "total_score": 0.5,
+      "variance": 0.0
+    },
+    {
+      "disease": "van Maldergem syndrome 2",
+      "total_score": 0.428164899229444,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital heart defects, dysmorphic facial features, and intellectual developmental disorder",
+      "total_score": 0.4199851059947296,
+      "variance": 0.0
+    },
+    {
+      "disease": "van den Bosch syndrome",
+      "total_score": 0.4156452279300375,
+      "variance": 0.0
+    },
+    {
+      "disease": "renal hypodysplasia/aplasia 1",
+      "total_score": 0.3895599067478032,
+      "variance": 0.0
+    },
+    {
+      "disease": "cardiac anomalies - developmental delay - facial dysmorphism syndrome",
+      "total_score": 0.3867638821234552,
+      "variance": 0.0
+    },
+    {
+      "disease": "multiple mitochondrial dysfunctions syndrome 2",
+      "total_score": 0.3836922051379167,
+      "variance": 0.002212746157618
+    },
+    {
+      "disease": "fatal multiple mitochondrial dysfunctions syndrome",
+      "total_score": 0.3736901581782954,
+      "variance": 0.0022397293868652
+    },
+    {
+      "disease": "retinal vascular disorder",
+      "total_score": 0.3366790956136476,
+      "variance": 0.0
+    },
+    {
+      "disease": "infratentorial neoplasm",
+      "total_score": 0.3333333333333333,
+      "variance": 0.0
+    },
+    {
+      "disease": "retinal vascular occlusion",
+      "total_score": 0.2994695445514235,
+      "variance": 0.0
+    },
+    {
+      "disease": "keratosis palmaris et plantaris-clinodactyly syndrome",
+      "total_score": 0.2868941435457547,
+      "variance": 0.0
+    },
+    {
+      "disease": "trichomegaly-retina pigmentary degeneration-dwarfism syndrome",
+      "total_score": 0.2752864461958387,
+      "variance": 0.0
+    },
+    {
+      "disease": "overlapping connective tissue disease",
+      "total_score": 0.2701388019977874,
+      "variance": 0.0
+    },
+    {
+      "disease": "polyneuropathy-hand defect syndrome",
+      "total_score": 0.2536813155331462,
+      "variance": 0.0
+    },
+    {
+      "disease": "ataxia-hypogonadism-choroidal dystrophy syndrome",
+      "total_score": 0.2205496770372468,
+      "variance": 0.0
+    },
+    {
+      "disease": "skin carcinoma in situ",
+      "total_score": 0.2102328535999652,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with regression, abnormal movements, loss of speech, and seizures",
+      "total_score": 0.2020272568835135,
+      "variance": 0.0
+    },
+    {
+      "disease": "skin sensitivity to sun",
+      "total_score": 0.1886579552948605,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "Usmani-Riazuddin syndrome, autosomal dominant",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Usmani-Riazuddin syndrome, autosomal recessive",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "muscular dystrophy, congenital, with or without seizures",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "polyhydramnios, megalencephaly, and symptomatic epilepsy",
+      "total_score": 0.9666692560424996,
+      "variance": 0.0
+    },
+    {
+      "disease": "DPAGT1-congenital disorder of glycosylation",
+      "total_score": 0.9273321449607786,
+      "variance": 0.0
+    },
+    {
+      "disease": "peroxisome biogenesis disorder 10A (Zellweger)",
+      "total_score": 0.6891640153972853,
+      "variance": 0.0
+    },
+    {
+      "disease": "familial acne inversa",
+      "total_score": 0.4362850971922246,
+      "variance": 0.0
+    },
+    {
+      "disease": "acne inversa, familial, 1",
+      "total_score": 0.3984769261325496,
+      "variance": 0.0
+    },
+    {
+      "disease": "short stature-onychodysplasia-facial dysmorphism-hypotrichosis syndrome",
+      "total_score": 0.3533059395298223,
+      "variance": 0.0
+    },
+    {
+      "disease": "spastic paraplegia 85, autosomal recessive",
+      "total_score": 0.3525234001594213,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodegeneration with brain iron accumulation 6",
+      "total_score": 0.3305523477467161,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability, autosomal dominant 58",
+      "total_score": 0.3127373072873699,
+      "variance": 0.0
+    },
+    {
+      "disease": "Lowry-Wood syndrome",
+      "total_score": 0.2943448882487721,
+      "variance": 0.0
+    },
+    {
+      "disease": "isolated lissencephaly type 1 without known genetic defects",
+      "total_score": 0.2921933085501861,
+      "variance": 0.0
+    },
+    {
+      "disease": "microcephalic osteodysplastic primordial dwarfism types I and III",
+      "total_score": 0.2643629422511687,
+      "variance": 0.0
+    },
+    {
+      "disease": "Roifman syndrome",
+      "total_score": 0.2384823614102992,
+      "variance": 0.0
+    },
+    {
+      "disease": "chromosome 10q23 deletion syndrome",
+      "total_score": 0.2323745064861817,
+      "variance": 0.0
+    },
+    {
+      "disease": "dissociative disorder",
+      "total_score": 0.1982606323065981,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital left-sided heart lesions",
+      "total_score": 0.1438642562368462,
+      "variance": 0.0
+    },
+    {
+      "disease": "childhood-onset motor and cognitive regression syndrome with extrapyramidal movement disorder",
+      "total_score": 0.142903059299896,
+      "variance": 0.0
+    },
+    {
+      "disease": "progressive myoclonic epilepsy type 6",
+      "total_score": 0.1357106543203849,
+      "variance": 0.0
+    },
+    {
+      "disease": "cutaneous leishmaniasis",
+      "total_score": 0.1286157782014184,
+      "variance": 0.0239813484772396
+    },
+    {
+      "disease": "trisomy 12p",
+      "total_score": 0.1235608203917418,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability-short stature-hypertelorism syndrome",
+      "total_score": 0.116536581413563,
+      "variance": 0.0
+    },
+    {
+      "disease": "glioma susceptibility 2",
+      "total_score": 0.1157267194878923,
+      "variance": 0.0
+    },
+    {
+      "disease": "peroxisome biogenesis disorder 1A (Zellweger)",
+      "total_score": 0.1155891825437286,
+      "variance": 0.0
+    },
+    {
+      "disease": "recurrent pneumonia",
+      "total_score": 0.1052631578947368,
+      "variance": 0.0
+    },
+    {
+      "disease": "macular corneal dystrophy",
+      "total_score": 0.1021857803474714,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal dominant sensory ataxia 1",
+      "total_score": 0.0943337527686906,
+      "variance": 0.0
+    },
+    {
+      "disease": "geniculate herpes zoster",
+      "total_score": 0.0909267534486107,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "dyskinesia with orofacial involvement",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "leiomyoma cutis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "cystinuria type A",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "renal tubulopathy-encephalopathy-liver failure syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "extraoral halitosis due to methanethiol oxidase deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "colon serrated polyposis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "anterior cerebral artery infarction",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "ocular motor apraxia, Cogan type",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Beckwith-Wiedemann syndrome due to imprinting defect of 11p15",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "progressive cavitating leukoencephalopathy",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "immunodeficiency 39",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "cardiovascular neoplasm",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "glycerol kinase deficiency, juvenile form",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "glycerol kinase deficiency, adult form",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neuropathy with hearing impairment",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "isolated microphthalmia 7",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "urinary bladder tuberculosis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "T-substance anomaly",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "rhabdomyosarcoma of the cervix uteri",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with language impairment, autism, and attention deficit-hyperactivity disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "uterine corpus choriocarcinoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "cerebral sarcoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "19p13.3 microduplication syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "high-grade astrocytoma with piloid features",
+      "total_score": 1.0,
+      "variance": 0.012047173524809
+    },
+    {
+      "disease": "ovary rhabdomyosarcoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "extragonadal teratoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "uterine corpus rhabdomyosarcoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Ritscher-Schinzel syndrome 4",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "1q44 microdeletion syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "chromosome 4q21 deletion syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "isolated hereditary congenital facial paralysis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "silver-Russell syndrome due to an imprinting defect of 11p15",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with spasticity, cataracts, and cerebellar hypoplasia",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "symphalangism",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal recessive brachyolmia",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hemophagocytic lymphohistiocytosis, familial, 6",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "ataxia, spastic, childhood-onset, autosomal recessive, with optic atrophy and intellectual disability",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability, autosomal dominant 41",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "vulvar benign neoplasm",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hypertrophic cardiomyopathy 13",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "combined oxidative phosphorylation deficiency 35",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "inborn aminoacylase deficiency",
+      "total_score": 0.986301369863014,
+      "variance": 0.0
+    },
+    {
+      "disease": "cystinuria type B",
+      "total_score": 0.9785976690105193,
+      "variance": 0.0
+    },
+    {
+      "disease": "benign connective and soft tissue neoplasm",
+      "total_score": 0.963082987657822,
+      "variance": 0.0
+    },
+    {
+      "disease": "FG syndrome 4",
+      "total_score": 0.952571435720634,
+      "variance": 0.0
+    },
+    {
+      "disease": "Galloway-Mowat syndrome 9",
+      "total_score": 0.8967326080805834,
+      "variance": 0.0
+    },
+    {
+      "disease": "multiple congenital anomalies-hypotonia-seizures syndrome 3",
+      "total_score": 0.8792706570619659,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with language delay and behavioral abnormalities, with or without seizures",
+      "total_score": 0.8578404730385482,
+      "variance": 0.0
+    },
+    {
+      "disease": "severe feeding difficulties-failure to thrive-microcephaly due to ASXL3 deficiency syndrome",
+      "total_score": 0.8543236189482712,
+      "variance": 0.0
+    },
+    {
+      "disease": "muscular dystrophy-dystroglycanopathy (congenital with intellectual disability), type B3",
+      "total_score": 0.8287811583715227,
+      "variance": 0.0
+    },
+    {
+      "disease": "IFAP syndrome",
+      "total_score": 0.8269341178082019,
+      "variance": 0.0
+    },
+    {
+      "disease": "hypomyelination with brain stem and spinal cord involvement and leg spasticity",
+      "total_score": 0.8166772958241488,
+      "variance": 0.0
+    },
+    {
+      "disease": "muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A3",
+      "total_score": 0.809185724484946,
+      "variance": 0.0
+    },
+    {
+      "disease": "PGM1-congenital disorder of glycosylation",
+      "total_score": 0.8062660893476113,
+      "variance": 0.0
+    },
+    {
+      "disease": "homocystinuria without methylmalonic aciduria",
+      "total_score": 0.769381506166992,
+      "variance": 0.0
+    },
+    {
+      "disease": "late infantile neuronal ceroid lipofuscinosis",
+      "total_score": 0.7672553461865137,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital stationary night blindness 2A",
+      "total_score": 0.7604920517706412,
+      "variance": 0.0
+    },
+    {
+      "disease": "cerebellar hypoplasia-intellectual disability-congenital microcephaly-dystonia-anemia-growth retardation syndrome",
+      "total_score": 0.7486654753422514,
+      "variance": 0.0
+    },
+    {
+      "disease": "Pierpont syndrome",
+      "total_score": 0.7435292516801424,
+      "variance": 0.0
+    },
+    {
+      "disease": "developmental delay with variable intellectual disability and dysmorphic facies",
+      "total_score": 0.7397744671138555,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "cecum lymphoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal recessive nonsyndromic hearing loss 86",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital heart defects, multiple types, 1, X-linked",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "retinitis pigmentosa-hearing loss-premature aging-short stature-facial dysmorphism syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Beck-Fahrner syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "focal epilepsy-intellectual disability-cerebro-cerebellar malformation",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "benign neoplasm of oropharynx",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal dominant nonsyndromic hearing loss 65",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "cataract-glaucoma syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "glycosylphosphatidylinositol biosynthesis defect 18",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "taurodontism, microdontia, and dens invaginatus",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Ehlers-Danlos syndrome, kyphoscoliotic type, 2",
+      "total_score": 0.9858724949743056,
+      "variance": 0.2959011107281784
+    },
+    {
+      "disease": "intellectual disability, X-linked, syndromic 33",
+      "total_score": 0.9617534775761866,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with or without variable brain abnormalities; NEDBA",
+      "total_score": 0.9599404453768156,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitochondrial complex V (ATP synthase) deficiency nuclear type 2",
+      "total_score": 0.9261903838610888,
+      "variance": 0.0
+    },
+    {
+      "disease": "X-linked intellectual disability, Cantagrel type",
+      "total_score": 0.914879170108205,
+      "variance": 0.0
+    },
+    {
+      "disease": "pontocerebellar hypoplasia type 2E",
+      "total_score": 0.9119161702490072,
+      "variance": 0.0
+    },
+    {
+      "disease": "developmental and epileptic encephalopathy, 35",
+      "total_score": 0.902387423267298,
+      "variance": 0.0
+    },
+    {
+      "disease": "fried syndrome",
+      "total_score": 0.8954263552036605,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal dominant intellectual disability-craniofacial anomalies-cardiac defects syndrome",
+      "total_score": 0.7328941563976017,
+      "variance": 0.2914637068864678
+    },
+    {
+      "disease": "rhizomelic limb shortening with dysmorphic features",
+      "total_score": 0.6956346211561685,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with hypotonia, microcephaly, and seizures",
+      "total_score": 0.627549884925222,
+      "variance": 0.0
+    },
+    {
+      "disease": "X-linked myotubular myopathy",
+      "total_score": 0.5097712295103635,
+      "variance": 0.0
+    },
+    {
+      "disease": "3q27.3 microdeletion syndrome",
+      "total_score": 0.4992776306284608,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal recessive distal spinal muscular atrophy 2",
+      "total_score": 0.4856289398738933,
+      "variance": 0.2221885067046066
+    },
+    {
+      "disease": "coenzyme Q10 deficiency, primary, 3",
+      "total_score": 0.4584734887368468,
+      "variance": 0.0
+    },
+    {
+      "disease": "progressive myoclonic epilepsy with dystonia",
+      "total_score": 0.4534658908151742,
+      "variance": 0.0
+    },
+    {
+      "disease": "isolated dystonia",
+      "total_score": 0.411764705882353,
+      "variance": 0.0
+    },
+    {
+      "disease": "distal hereditary motor neuropathy type 7",
+      "total_score": 0.3871281086043865,
+      "variance": 0.0
+    },
+    {
+      "disease": "thyroid cancer, nonmedullary, 5",
+      "total_score": 0.3648216163141294,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "benign neoplasm of gum",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "qualitative or quantitative defects of beta-myosin heavy chain (MYH7)",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital myopathy, Paradas type",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "cone dystrophy 1, X-linked",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "odontoleukodystrophy",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hypotonia, hypoventilation, impaired intellectual development, dysautonomia, epilepsy, and eye abnormalities",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mirror movements 4",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "cholesterol biosynthetic process disease",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "childhood-onset autosomal recessive myopathy with external ophthalmoplegia",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital disorder of glycosylation, type iit",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mild hemophilia A",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal recessive nonsyndromic hearing loss 102",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "prostate cancer, hereditary, 2",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Hengel-Maroofian-Schols syndrome",
+      "total_score": 0.9958553386304644,
+      "variance": 0.0
+    },
+    {
+      "disease": "X-linked cone-rod dystrophy 1",
+      "total_score": 0.9947317796305885,
+      "variance": 0.0
+    },
+    {
+      "disease": "hippocampal sclerosis of aging",
+      "total_score": 0.9869641582495322,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitochondrial DNA depletion syndrome 13",
+      "total_score": 0.969163856815951,
+      "variance": 0.0
+    },
+    {
+      "disease": "scapuloperoneal myopathy",
+      "total_score": 0.9544408405603492,
+      "variance": 0.0
+    },
+    {
+      "disease": "microcephaly, growth deficiency, seizures, and brain malformations",
+      "total_score": 0.9527030623041866,
+      "variance": 0.0
+    },
+    {
+      "disease": "hyaline body myopathy",
+      "total_score": 0.9517176021745124,
+      "variance": 0.2395026028351152
+    },
+    {
+      "disease": "Wieacker-Wolff syndrome (spectrum)",
+      "total_score": 0.932220356015718,
+      "variance": 0.0
+    },
+    {
+      "disease": "intestinal perforation",
+      "total_score": 0.9287014493630976,
+      "variance": 0.0
+    },
+    {
+      "disease": "COG4-congenital disorder of glycosylation",
+      "total_score": 0.9268575331456436,
+      "variance": 0.0
+    },
+    {
+      "disease": "fatty acyl-CoA reductase 1 deficiency",
+      "total_score": 0.9152123253486896,
+      "variance": 0.0
+    },
+    {
+      "disease": "rapadilino syndrome",
+      "total_score": 0.8498911913358531,
+      "variance": 0.0
+    },
+    {
+      "disease": "SLC39A8-CDG",
+      "total_score": 0.8224632620471589,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability, X-linked 19",
+      "total_score": 0.8088920072425206,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset 1",
+      "total_score": 0.7948705457515586,
+      "variance": 0.0
+    },
+    {
+      "disease": "Krabbe disease due to saposin A deficiency",
+      "total_score": 0.7638060892890711,
+      "variance": 0.0
+    },
+    {
+      "disease": "symptomatic form of hemophilia A in female carriers",
+      "total_score": 0.7550588945937785,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "cardiovascular cancer",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "glaucoma secondary to spherophakia/ectopia lentis and megalocornea",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "uterine corpus epithelioid leiomyoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "severe early-onset axonal neuropathy due to MFN2 deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "nasal cavity and paranasal sinus neoplasm",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "qualitative or quantitative defects of plectin",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "cervical metaplasia",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Okihiro syndrome due to a point mutation",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "ovarian primitive germ cell tumor",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "obsolete rare disease with autism",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "creatine biosynthetic process disease",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "severe Canavan disease",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual developmental disorder, X-linked, syndromic, with pigmentary mosaicism and coarse facies",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "secondary carcinoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Wyburn-Mason syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "acute endophthalmitis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "metastatic malignant neoplasm in the eye",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "adenomyoma of uterine corpus",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "adrenal gland ganglioneuroblastoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital myasthenic syndrome 17",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neoplasm of pericardium",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "trichilemmal cyst",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "X-linked intellectual disability-cubitus valgus-dysmorphism syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal dominant rhegmatogenous retinal detachment",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "dysplasia of the proximal femoral epiphyses",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hypochondrogenesis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "parotid disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "type 2 collagenopathy",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "cardiomyopathy, dilated, with wooly hair, keratoderma, and tooth agenesis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "obsolete rare genetic epidermal disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "parkinson disease 19B, early-onset",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "precocious puberty in female",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "dilated cardiomyopathy 2B",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "combined oxidative phosphorylation deficiency 43",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "focal, segmental or multifocal dystonia",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "focal facial dermal dysplasia",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "developmental and epileptic encephalopathy, 55",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "isolated microphthalmia",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "infantile axonal neuropathy",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "obsolete isolated hereditary giant platelet disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "arthrogryposis- oculomotor limitation-electroretinal anomalies syndrome",
+      "total_score": 0.9950611441602624,
+      "variance": 0.0
+    },
+    {
+      "disease": "patellofemoral pain syndrome",
+      "total_score": 0.9887005649717516,
+      "variance": 0.0
+    },
+    {
+      "disease": "sialuria",
+      "total_score": 0.9466259903525398,
+      "variance": 0.0
+    },
+    {
+      "disease": "focal facial dermal dysplasia type II",
+      "total_score": 0.8922037146356091,
+      "variance": 0.0
+    },
+    {
+      "disease": "peroxisome biogenesis disorder 2A (Zellweger)",
+      "total_score": 0.8512026784776984,
+      "variance": 0.0
+    },
+    {
+      "disease": "severe cutaneous adverse reaction",
+      "total_score": 0.7888275889927756,
+      "variance": 0.0
+    },
+    {
+      "disease": "dihydropyrimidine dehydrogenase deficiency",
+      "total_score": 0.7458652323105887,
+      "variance": 0.0
+    },
+    {
+      "disease": "hereditary spastic paraplegia 15",
+      "total_score": 0.7047548219415181,
+      "variance": 0.2807779902816503
+    },
+    {
+      "disease": "ablepharon macrostomia syndrome",
+      "total_score": 0.6880823523643101,
+      "variance": 0.0
+    },
+    {
+      "disease": "Johanson-Blizzard syndrome",
+      "total_score": 0.674227181526784,
+      "variance": 0.0
+    },
+    {
+      "disease": "micrognathia-recurrent infections-behavioral abnormalities-mild intellectual disability syndrome",
+      "total_score": 0.6733056252967408,
+      "variance": 0.0
+    },
+    {
+      "disease": "focal facial dermal dysplasia type III",
+      "total_score": 0.6268980841305011,
+      "variance": 0.0
+    },
+    {
+      "disease": "Barber-Say syndrome",
+      "total_score": 0.6206328352748129,
+      "variance": 0.0
+    },
+    {
+      "disease": "Charcot-Marie-Tooth disease axonal type 2S",
+      "total_score": 0.5325625869441071,
+      "variance": 0.2899478173835051
+    },
+    {
+      "disease": "muscular dystrophy-dystroglycanopathy type B5",
+      "total_score": 0.5245501589531633,
+      "variance": 0.0
+    },
+    {
+      "disease": "pontocerebellar hypoplasia, type 14",
+      "total_score": 0.5098175176201387,
+      "variance": 0.2613388195777436
+    },
+    {
+      "disease": "mucolipidosis type IV",
+      "total_score": 0.5025505006288612,
+      "variance": 0.2362430699296961
+    },
+    {
+      "disease": "macrothrombocytopenia, isolated",
+      "total_score": 0.5,
+      "variance": 0.0
+    },
+    {
+      "disease": "short stature due to isolated growth hormone deficiency with X-linked hypogammaglobulinemia",
+      "total_score": 0.5,
+      "variance": 0.0
+    },
+    {
+      "disease": "X-linked intellectual disability, Pai type",
+      "total_score": 0.4991063981889671,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "obsolete primary interstitial lung disease specific to childhood due to pulmonary surfactant protein anomalies",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Tay-Sachs disease, B1 variant",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "childhood central nervous system germ cell tumor",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with facial dysmorphism, absent language, and pseudo-pelger-huet anomaly",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "intermediate severe Salla disease",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "pulmonary fibrosis and/or bone marrow failure, telomere-related",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neonatal-onset encephalopathy with rigidity and seizures",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Tay-Sachs disease, b variant, juvenile form",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Tay-Sachs disease, b variant, infantile form",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital tricuspid malformation",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Tay-Sachs disease, B variant, adult form",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "obsolete widow's peak",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "vestibulocochlear nerve disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "GATA1-Related X-Linked Cytopenia",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitral valve prolapse, myxomatous 3",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency, simple virilizing form",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency, salt wasting form",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "trichohepatoneurodevelopmental syndrome",
+      "total_score": 0.9979042347383558,
+      "variance": 0.0
+    },
+    {
+      "disease": "familial schizencephaly",
+      "total_score": 0.9900990099009902,
+      "variance": 0.0
+    },
+    {
+      "disease": "deep seated dermatophytosis",
+      "total_score": 0.9843642903192972,
+      "variance": 0.0
+    },
+    {
+      "disease": "paranoid personality disorder",
+      "total_score": 0.9750321532773282,
+      "variance": 0.0584644527431449
+    },
+    {
+      "disease": "factor XI deficiency",
+      "total_score": 0.9583063841129542,
+      "variance": 0.3477523709626333
+    },
+    {
+      "disease": "neurodevelopmental disorder with poor growth and behavioral abnormalities",
+      "total_score": 0.9569878700289172,
+      "variance": 0.0
+    },
+    {
+      "disease": "Compton-North congenital myopathy",
+      "total_score": 0.9441480056304004,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with microcephaly, seizures, and brain atrophy",
+      "total_score": 0.9298085179939556,
+      "variance": 0.0831883359732103
+    },
+    {
+      "disease": "Chopra-Amiel-Gordon syndrome",
+      "total_score": 0.923708782442363,
+      "variance": 0.0
+    },
+    {
+      "disease": "corneal intraepithelial neoplasm",
+      "total_score": 0.888888888888889,
+      "variance": 0.0
+    },
+    {
+      "disease": "developmental and epileptic encephalopathy, 86",
+      "total_score": 0.884435694766844,
+      "variance": 0.0
+    },
+    {
+      "disease": "free sialic acid storage disease, infantile form",
+      "total_score": 0.833132635477526,
+      "variance": 0.0
+    },
+    {
+      "disease": "GABA aminotransaminase deficiency",
+      "total_score": 0.8234852840412381,
+      "variance": 0.2309224051573167
+    }
+  ],
+  [
+    {
+      "disease": "tendon sheath disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "syndromic constitutional thrombocytopenia",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "complex lethal osteochondrodysplasia",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "lung non-Hodgkin lymphoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "acid sphingomyelinase deficiency",
+      "total_score": 0.9580739666094048,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with speech impairment and dysmorphic facies",
+      "total_score": 0.9558969941447136,
+      "variance": 0.0
+    },
+    {
+      "disease": "ALG8-congenital disorder of glycosylation",
+      "total_score": 0.9264021015753796,
+      "variance": 0.0
+    },
+    {
+      "disease": "ALG3-congenital disorder of glycosylation",
+      "total_score": 0.9173726782524378,
+      "variance": 0.0
+    },
+    {
+      "disease": "mucopolysaccharidosis type 3D",
+      "total_score": 0.8549328490959412,
+      "variance": 0.0
+    },
+    {
+      "disease": "Revesz syndrome",
+      "total_score": 0.8178130028817105,
+      "variance": 0.0
+    },
+    {
+      "disease": "qualitative or quantitative defects of beta-sarcoglycan",
+      "total_score": 0.7893023445560938,
+      "variance": 0.0
+    },
+    {
+      "disease": "dyskeratosis congenita, autosomal dominant 3",
+      "total_score": 0.6981162653764419,
+      "variance": 0.0
+    },
+    {
+      "disease": "Bamforth-Lazarus syndrome",
+      "total_score": 0.6648488683177016,
+      "variance": 0.0
+    },
+    {
+      "disease": "encephalopathy, porphyria-related",
+      "total_score": 0.6284452140604597,
+      "variance": 0.0
+    },
+    {
+      "disease": "Niemann-Pick disease type A",
+      "total_score": 0.624189303417353,
+      "variance": 0.0
+    },
+    {
+      "disease": "combined oxidative phosphorylation deficiency 46",
+      "total_score": 0.6130477788217931,
+      "variance": 0.0
+    },
+    {
+      "disease": "3-hydroxyisobutyryl-CoA hydrolase deficiency",
+      "total_score": 0.5918170773287939,
+      "variance": 0.0
+    },
+    {
+      "disease": "disorder of galactose metabolism",
+      "total_score": 0.5371428571428571,
+      "variance": 0.0
+    },
+    {
+      "disease": "epidermolysis bullosa simplex 7, with nephropathy and deafness",
+      "total_score": 0.5333377628686394,
+      "variance": 0.0
+    },
+    {
+      "disease": "acute intermittent porphyria",
+      "total_score": 0.5146362248882129,
+      "variance": 0.0
+    },
+    {
+      "disease": "scrotal disorder",
+      "total_score": 0.5,
+      "variance": 0.0
+    },
+    {
+      "disease": "alpha-methylacyl-CoA racemase deficiency",
+      "total_score": 0.4880717268831452,
+      "variance": 0.2569730207223048
+    },
+    {
+      "disease": "neurodevelopmental disorder with motor and speech delay and behavioral abnormalities",
+      "total_score": 0.4752350205976182,
+      "variance": 0.0
+    },
+    {
+      "disease": "malignant struma ovarii",
+      "total_score": 0.4705882352941176,
+      "variance": 0.0
+    },
+    {
+      "disease": "plantar fibromatosis",
+      "total_score": 0.4307551842807947,
+      "variance": 0.0
+    },
+    {
+      "disease": "endocrine-cerebro-osteodysplasia syndrome",
+      "total_score": 0.4206971104762327,
+      "variance": 0.1671683272655017
+    },
+    {
+      "disease": "encephalopathy, progressive, early-onset, with brain edema and/or leukoencephalopathy",
+      "total_score": 0.4109483096113434,
+      "variance": 0.0
+    },
+    {
+      "disease": "occipital horn syndrome",
+      "total_score": 0.4067648265754697,
+      "variance": 0.0
+    },
+    {
+      "disease": "cardioacrofacial dysplasia 2",
+      "total_score": 0.3994941354320282,
+      "variance": 0.0
+    },
+    {
+      "disease": "hereditary peripheral neuropathy",
+      "total_score": 0.3773388040767992,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "mandibulofacial dysostosis with mental deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "flying phobia",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "cytosolic phospholipase-A2 alpha deficiency associated bleeding disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "combined oxidative phosphorylation deficiency 48",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hemimelia",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "benign metastasizing leiomyoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "MME-related autosomal dominant Charcot Marie Tooth disease type 2",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "esophagus liposarcoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "esophageal lipoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "obsolete syndrome with microcephaly as major feature",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "ectrodactyly and ectodermal dysplasia without cleft lip/palate",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "epidermolysis bullosa, junctional 2B, severe",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "epidermolysis bullosa, junctional 2A, intermediate",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "palatal anomalies-widely spaced teeth-facial dysmorphism-developmental delay syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "immunodeficiency 106, susceptibility to viral infections",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "microcephaly, epilepsy, and diabetes syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "periosteal chondroma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "pancreatic serous cystadenocarcinoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "intracranial extraskeletal myxoid chondrosarcoma",
+      "total_score": 1.0,
+      "variance": 1.6407785937274985e-05
+    },
+    {
+      "disease": "Coronaviridae infectious disease",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "skin basaloid carcinoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "postgastrectomy syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hereditary spastic paraplegia 54",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "aniseikonia",
+      "total_score": 1.0,
+      "variance": 0.011115213950603
+    },
+    {
+      "disease": "autosomal recessive nonsyndromic hearing loss 53",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal dominant nonsyndromic hearing loss 13",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "pontocerebellar hypoplasia type 3",
+      "total_score": 0.9965296266781836,
+      "variance": 0.0
+    },
+    {
+      "disease": "ALys amyloidosis",
+      "total_score": 0.992077246843278,
+      "variance": 0.0
+    },
+    {
+      "disease": "ulceration of vulva",
+      "total_score": 0.9901460267857236,
+      "variance": 0.0052210485221783
+    },
+    {
+      "disease": "short stature due to growth hormone qualitative anomaly",
+      "total_score": 0.9879151463328788,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "Jeffries-Lakhani neurodevelopmental syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "bladder diverticulum",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "nail anomaly",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "periventricular nodular heterotopia 9",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "retinal neuroblastoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "tetrahydrobiopterin metabolic process disease",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Brunet-Wagner neurodevelopmental syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Hao-Fountain syndrome due to USP7 mutation",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "citrin deficiency",
+      "total_score": 0.8718601679881942,
+      "variance": 0.0
+    },
+    {
+      "disease": "Hao-Fountain syndrome",
+      "total_score": 0.8580691279053185,
+      "variance": 0.0
+    },
+    {
+      "disease": "deafness-encephaloneuropathy-obesity-valvulopathy syndrome",
+      "total_score": 0.783812356158846,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual developmental disorder 62",
+      "total_score": 0.6594719940629834,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with hypotonia, seizures, and absent language",
+      "total_score": 0.6505005100323059,
+      "variance": 0.0
+    },
+    {
+      "disease": "pseudo-TORCH syndrome",
+      "total_score": 0.5795233641234306,
+      "variance": 0.0
+    },
+    {
+      "disease": "adult-onset citrullinemia type I",
+      "total_score": 0.5746428287768346,
+      "variance": 0.0
+    },
+    {
+      "disease": "sympathetic nervous system disorder",
+      "total_score": 0.5,
+      "variance": 0.0
+    },
+    {
+      "disease": "cervical incompetence",
+      "total_score": 0.4868260819691071,
+      "variance": 0.0
+    },
+    {
+      "disease": "nail disorder",
+      "total_score": 0.4576162126536445,
+      "variance": 0.0
+    },
+    {
+      "disease": "epidermolysis bullosa, junctional 6, with pyloric atresia",
+      "total_score": 0.438083546857131,
+      "variance": 0.1543140263350003
+    },
+    {
+      "disease": "aortic aneurysm, familial thoracic 12",
+      "total_score": 0.4361955312413637,
+      "variance": 0.0
+    },
+    {
+      "disease": "pineal parenchymal tumor of intermediate differentiation",
+      "total_score": 0.4296018593168474,
+      "variance": 0.0
+    },
+    {
+      "disease": "developmental and epileptic encephalopathy, 59",
+      "total_score": 0.4262577513031508,
+      "variance": 0.0
+    },
+    {
+      "disease": "spirochaetales infections",
+      "total_score": 0.4222999304926427,
+      "variance": 0.0
+    },
+    {
+      "disease": "Hermansky-Pudlak syndrome 11",
+      "total_score": 0.4123892736034215,
+      "variance": 0.0
+    },
+    {
+      "disease": "citrullinemia",
+      "total_score": 0.3987750837922538,
+      "variance": 0.0
+    },
+    {
+      "disease": "femoral agenesis/hypoplasia",
+      "total_score": 0.3658536585365854,
+      "variance": 0.0
+    },
+    {
+      "disease": "Ullrich congenital muscular dystrophy 2",
+      "total_score": 0.3420422197232619,
+      "variance": 0.0
+    },
+    {
+      "disease": "cataract 16 multiple types",
+      "total_score": 0.3341598163486735,
+      "variance": 0.0
+    },
+    {
+      "disease": "nasal cavity adenocarcinoma",
+      "total_score": 0.3333333333333333,
+      "variance": 0.0
+    },
+    {
+      "disease": "Charcot-Marie-Tooth disease dominant intermediate E",
+      "total_score": 0.3321104594549878,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "Lessel-Kreienkamp syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "stuttering, familial persistent, 2",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Joubert syndrome 29",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "growth retardation-mild developmental delay-chronic hepatitis syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "familial myelofibrosis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with microcephaly, hypotonia, nystagmus, and seizures",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with or without autistic features and/or structural brain abnormalities",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "trachea leiomyoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "encephalitis/encephalopathy, mild, with reversible myelin vacuolization",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "endometrium carcinoma in situ",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "HTRA1-related autosomal dominant cerebral small vessel disease",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hemoglobinopathy Toms River",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hereditary sensory and autonomic neuropathy type 6",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "silver-Russell syndrome due to maternal uniparental disomy of chromosome 11",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hypertrophic cardiomyopathy 12",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "alpha-N-acetylgalactosaminidase deficiency",
+      "total_score": 0.9765579370953906,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder, mitochondrial, with abnormal movements and lactic acidosis, with or without seizures",
+      "total_score": 0.9635298350910094,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with cardiomyopathy, spasticity, and brain abnormalities",
+      "total_score": 0.9613698812201248,
+      "variance": 0.0
+    },
+    {
+      "disease": "microcephaly, developmental delay, and brittle hair syndrome",
+      "total_score": 0.9527853961756366,
+      "variance": 0.0
+    },
+    {
+      "disease": "factor XIII deficiency",
+      "total_score": 0.9521052631578952,
+      "variance": 0.0
+    },
+    {
+      "disease": "epidermolysis bullosa simplex 3, localized or generalized intermediate, with BP230 deficiency",
+      "total_score": 0.9181112651659904,
+      "variance": 0.0
+    },
+    {
+      "disease": "Rauch-Steindl syndrome",
+      "total_score": 0.9173268599791294,
+      "variance": 0.0
+    },
+    {
+      "disease": "alpha-N-acetylgalactosaminidase deficiency type 2",
+      "total_score": 0.9128366369028394,
+      "variance": 0.0
+    },
+    {
+      "disease": "cerebral arteriopathy, autosomal dominant, with subcortical infarcts and leukoencephalopathy, type 2",
+      "total_score": 0.911568274292056,
+      "variance": 0.2633554048234841
+    },
+    {
+      "disease": "Bosch-Boonstra-Schaaf optic atrophy syndrome",
+      "total_score": 0.8843747017372204,
+      "variance": 0.0
+    },
+    {
+      "disease": "alpha-N-acetylgalactosaminidase deficiency type 1",
+      "total_score": 0.828625335892296,
+      "variance": 0.0
+    },
+    {
+      "disease": "Allan-Herndon-Dudley syndrome",
+      "total_score": 0.7945646587570383,
+      "variance": 0.3578468054678401
+    },
+    {
+      "disease": "combined oxidative phosphorylation defect type 7",
+      "total_score": 0.7298090593869595,
+      "variance": 0.0
+    },
+    {
+      "disease": "intrahepatic bile duct cancer",
+      "total_score": 0.6912899888242776,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "deficiency of adenosine deaminase 2",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "pontocerebellar hypoplasia, IIA 17",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "chromosome 20 trisomy",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal recessive osteopetrosis 2",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability, autosomal recessive 60",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "developmental and epileptic encephalopathy, 62",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Luo-Schoch-Yamamoto syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "unilateral retinoblastoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "chromosome Xq28 duplication syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Duane retraction syndrome 3 with or without deafness",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "craniosynostosis syndrome, autosomal recessive",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mucopolysaccharidosis type 6, slowly progressing",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mucopolysaccharidosis type 6, rapidly progressing",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "benign neoplasm of small intestine",
+      "total_score": 0.9929059772409832,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal recessive nonsyndromic hearing loss 2",
+      "total_score": 0.9924540047139876,
+      "variance": 0.0
+    },
+    {
+      "disease": "reducing body myopathy",
+      "total_score": 0.9922815403567684,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal dominant nonsyndromic hearing loss 11",
+      "total_score": 0.9911198044372874,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital insensitivity to pain-hypohidrosis syndrome",
+      "total_score": 0.9610948476126476,
+      "variance": 0.0
+    },
+    {
+      "disease": "hyperostosis cranialis interna",
+      "total_score": 0.9566046951674771,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with microcephaly, seizures, and cortical atrophy",
+      "total_score": 0.9559632660710724,
+      "variance": 0.0
+    },
+    {
+      "disease": "peroxisome biogenesis disorder 7A (Zellweger)",
+      "total_score": 0.8931506539145398,
+      "variance": 0.0
+    },
+    {
+      "disease": "severe neonatal-onset encephalopathy with microcephaly",
+      "total_score": 0.8485738519587425,
+      "variance": 0.0
+    },
+    {
+      "disease": "spinocerebellar ataxia 47",
+      "total_score": 0.8480702061292086,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with motor abnormalities, seizures, and facial dysmorphism",
+      "total_score": 0.8222764467524921,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with dystonia and seizures",
+      "total_score": 0.8092789354547791,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal recessive myogenic arthrogryposis multiplex congenita",
+      "total_score": 0.8092554849538426,
+      "variance": 0.0
+    },
+    {
+      "disease": "leukodystrophy, hypomyelinating, 20",
+      "total_score": 0.8066891125820272,
+      "variance": 0.0
+    },
+    {
+      "disease": "progressive myoclonic epilepsy type 9",
+      "total_score": 0.803685431403203,
+      "variance": 0.0
+    },
+    {
+      "disease": "uterine benign neoplasm",
+      "total_score": 0.7668711656441727,
+      "variance": 0.0
+    },
+    {
+      "disease": "bone resorption disease",
+      "total_score": 0.7647626366554703,
+      "variance": 0.0680479524172831
+    }
+  ],
+  [
+    {
+      "disease": "alkaline ceramidase 3 deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "intestinal obstruction in the newborn due to guanylate cyclase 2C deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "inherited hemoglobinopathy",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "sickle cell-hemoglobin E disease syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "sickle cell-hemoglobin d disease syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neuropathy, hereditary sensory, type 2C",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal dominant intermediate Charcot-Marie-Tooth disease with neuropathic pain",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with infantile epileptic spasms",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Goldmann-Favre syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "obsolete goniodysgenesis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "silver-russell syndrome 4",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "ataxia neuropathy spectrum",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "malignant tenosynovial giant cell tumor",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "bulbospinal muscular atrophy",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual developmental disorder, autosomal dominant 72",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "retroperitoneal neuroblastoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "TRAF7-associated heart defect-digital anomalies-facial dysmorphism-motor and speech delay syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Dyggve-Melchior-Clausen syndrome, X-linked",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "streptococcal sore throat",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "beta-thalassemia HBB/LCRB",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "syndromic congenital sodium diarrhea",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital secretory diarrhea",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "pulmonary veno-occlusive disease and/or pulmonary capillary haemangiomatosis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "chondrodysplasia punctata, brachytelephalangic, autosomal",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "kidney lipoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "familial idiopathic inflammatory myopathy",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "bone leiomyosarcoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "laryngeal leiomyoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital disorder of glycosylation, type Ibb",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital diarrhea 6",
+      "total_score": 1.0,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "autosomal recessive hyperinsulinism due to SUR1 deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "diazoxide-resistant focal hyperinsulinism due to SUR1 deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "sporadic fetal brain disruption sequence",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability, autosomal recessive 56",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "DeSanto-Shinawi syndrome due to WAC point mutation",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "temperature-sensitive oculocutaneous albinism type 1",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "minimal pigment oculocutaneous albinism type 1",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "leukostasis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "sick building syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "familial episodic pain syndrome with predominantly upper body involvement",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitochondrial DNA maintenance syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "macrocephaly/megalencephaly syndrome, autosomal recessive",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "isolated megalencephaly",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "skin vascular disease",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mirror movements 2",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hereditary hypoparathyroidism",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "familial primary hyperparathyroidism",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "multiple congenital anomalies-hypotonia-seizures syndrome 2",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "ascaridiasis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "GRIN2B-related developmental delay, intellectual disability and autism spectrum disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "D-glyceric aciduria",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "GATA2 deficiency with susceptibility to MDS/AML",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "gastrocutaneous syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital short bowel syndrome, autosomal recessive",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Birbeck granule deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "joint laxity, familial",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "perinatal lethal hypophosphatasia",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "DeSanto-Shinawi syndrome",
+      "total_score": 0.9975288440896464,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal recessive epidermolytic ichthyosis",
+      "total_score": 0.9882078368750769,
+      "variance": 0.0
+    },
+    {
+      "disease": "odontohypophosphatasia",
+      "total_score": 0.9756038947586492,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "craniosynostosis with ectopia lentis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "diazoxide-resistant focal hyperinsulinism due to Kir6.2 deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "atypical dentin dysplasia due to SMOC2 deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "intestinal disaccharidase deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital myasthenic syndrome 15",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "multifocal pattern dystrophy simulating fundus flavimaculatus",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hereditary inclusion body myopathy type 4",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "intermediate DEND syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "patterned dystrophy of the retinal pigment epithelium",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "anonychia-onychodystrophy syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "primary non-essential cutis verticis gyrata",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "cataract 34 multiple types",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "thiamine-responsive maple syrup urine disease",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "renal hypomagnesemia 3",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual developmental disorder 59",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "apolipoprotein A-II amyloidosis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Basilicata-Akhtar syndrome",
+      "total_score": 0.9980820582917092,
+      "variance": 0.0
+    },
+    {
+      "disease": "maturity-onset diabetes of the young type 13",
+      "total_score": 0.997193347290221,
+      "variance": 0.0
+    },
+    {
+      "disease": "developmental and epileptic encephalopathy, 65",
+      "total_score": 0.990382890356113,
+      "variance": 0.0
+    },
+    {
+      "disease": "short QT syndrome type 3",
+      "total_score": 0.9834667100649248,
+      "variance": 0.0
+    },
+    {
+      "disease": "neuroendocrine cell hyperplasia of infancy",
+      "total_score": 0.9693939190549704,
+      "variance": 0.0
+    },
+    {
+      "disease": "rectosigmoid junction cancer",
+      "total_score": 0.9663744842007764,
+      "variance": 0.0433488209117915
+    },
+    {
+      "disease": "familial cavitary optic disk anomaly",
+      "total_score": 0.964869353606502,
+      "variance": 0.0
+    },
+    {
+      "disease": "methylmalonic acidemia with homocystinuria, type cblJ",
+      "total_score": 0.9629134515443158,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with microcephaly, impaired language, and gait abnormalities",
+      "total_score": 0.9615454239663764,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability, autosomal dominant 51",
+      "total_score": 0.9604598521696456,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual developmental disorder, autosomal dominant 71, with behavioral abnormalities",
+      "total_score": 0.9590783752867856,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with severe motor impairment and absent language",
+      "total_score": 0.9590074276940734,
+      "variance": 0.0
+    },
+    {
+      "disease": "neuroocular syndrome",
+      "total_score": 0.9587707990500246,
+      "variance": 0.0
+    },
+    {
+      "disease": "fibromuscular dysplasia, multifocal",
+      "total_score": 0.9584540286789236,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "pontocerebellar hypoplasia, hypotonia, and respiratory insufficiency syndrome, neonatal lethal",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodegeneration, childhood-onset, with hypotonia, respiratory insufficiency, and brain imaging abnormalities",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital disorder of glycosylation, type IIbb",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "blepharophimosis-ptosis-epicanthus inversus syndrome type 2",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with seizures, hypotonia, and brain imaging abnormalities",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "adult intestinal botulism",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "developmental and epileptic encephalopathy, 84",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "facial dysmorphism, hypertrichosis, epilepsy, intellectual/developmental delay, and gingival overgrowth syndrome",
+      "total_score": 0.9966259957092908,
+      "variance": 0.2116221672888223
+    },
+    {
+      "disease": "pontocerebellar hypoplasia, type 1F",
+      "total_score": 0.9926509427462508,
+      "variance": 0.0
+    },
+    {
+      "disease": "AICA-ribosiduria",
+      "total_score": 0.9797008899996332,
+      "variance": 0.0
+    },
+    {
+      "disease": "properdin deficiency, X-linked",
+      "total_score": 0.9543720047627384,
+      "variance": 0.0
+    },
+    {
+      "disease": "developmental and epileptic encephalopathy 89",
+      "total_score": 0.951824729776322,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal dominant limb-girdle muscular dystrophy type 1E (DES)",
+      "total_score": 0.8620689655172414,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual developmental disorder, X-linked, syndromic, Hackmann-Di Donato type",
+      "total_score": 0.8199186885430222,
+      "variance": 0.0
+    },
+    {
+      "disease": "fatal mitochondrial disease due to combined oxidative phosphorylation defect type 3",
+      "total_score": 0.8116182439954613,
+      "variance": 0.0
+    },
+    {
+      "disease": "Harel-Yoon syndrome",
+      "total_score": 0.7555090476837268,
+      "variance": 0.0
+    },
+    {
+      "disease": "epilepsy, X-linked 1, with variable learning disabilities and behavior disorders",
+      "total_score": 0.7548667709063422,
+      "variance": 0.0
+    },
+    {
+      "disease": "giant axonal neuropathy",
+      "total_score": 0.7375492815097588,
+      "variance": 0.0
+    },
+    {
+      "disease": "macrocephaly, dysmorphic facies, and psychomotor retardation",
+      "total_score": 0.7354845242380441,
+      "variance": 0.0
+    },
+    {
+      "disease": "Joubert syndrome 36",
+      "total_score": 0.7182926359379856,
+      "variance": 0.0
+    },
+    {
+      "disease": "primary thrombocytopenia",
+      "total_score": 0.6597740133652205,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitochondrial myopathy-lactic acidosis-deafness syndrome",
+      "total_score": 0.6430265009078918,
+      "variance": 0.172430756680657
+    },
+    {
+      "disease": "viral hepatitis",
+      "total_score": 0.6329600986659742,
+      "variance": 0.0
+    },
+    {
+      "disease": "muscular dystrophy-dystroglycanopathy (congenital without intellectual disability), type B4",
+      "total_score": 0.6108209342444789,
+      "variance": 0.0
+    },
+    {
+      "disease": "Skraban-Deardorff syndrome",
+      "total_score": 0.6018460056875088,
+      "variance": 0.0
+    },
+    {
+      "disease": "Malan overgrowth syndrome",
+      "total_score": 0.5960309038319361,
+      "variance": 0.297418272810021
+    },
+    {
+      "disease": "microcephalic primordial dwarfism due to RTTN deficiency",
+      "total_score": 0.5917463144414744,
+      "variance": 0.0
+    },
+    {
+      "disease": "autoinflammatory syndrome with pyogenic bacterial infection and amylopectinosis",
+      "total_score": 0.5789473684210525,
+      "variance": 0.0
+    },
+    {
+      "disease": "myopathy, centronuclear, 5",
+      "total_score": 0.5536175700932641,
+      "variance": 0.0
+    },
+    {
+      "disease": "Charcot-Marie-Tooth disease type 4B2",
+      "total_score": 0.5474415916473778,
+      "variance": 0.2689876926135388
+    }
+  ],
+  [
+    {
+      "disease": "vulval varices",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Cerebrorenodigital syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitochondrial complex 4 deficiency, nuclear type 16",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "17,20-lyase deficiency, isolated",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "17-alpha-hydroxylase/17,20-lyase deficiency, combined partial",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "febrile seizures, familial, 2",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hypomyelinating leukodystrophy 8 with or without oligodontia and-or hypogonadotropic hypogonadism",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "antecubital pterygium syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal dominant ichthyosis vulgaris",
+      "total_score": 0.9955285798272708,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with spastic quadriplegia and brain abnormalities with or without seizures",
+      "total_score": 0.9936635576699232,
+      "variance": 0.0
+    },
+    {
+      "disease": "focal facial dermal dysplasia type IV",
+      "total_score": 0.9454551816338224,
+      "variance": 0.0
+    },
+    {
+      "disease": "alcoholic gastritis",
+      "total_score": 0.8955643757655136,
+      "variance": 0.0
+    },
+    {
+      "disease": "palindromic rheumatism",
+      "total_score": 0.880610438695159,
+      "variance": 0.0
+    },
+    {
+      "disease": "tall stature-intellectual disability-renal anomalies syndrome",
+      "total_score": 0.8343245372430224,
+      "variance": 0.0
+    },
+    {
+      "disease": "isolated sulfite oxidase deficiency",
+      "total_score": 0.8244465272486562,
+      "variance": 0.0
+    },
+    {
+      "disease": "genitourinary and/or brain malformation syndrome",
+      "total_score": 0.8087104860087863,
+      "variance": 0.0
+    },
+    {
+      "disease": "attenuated Ch\u00e9diak-Higashi syndrome",
+      "total_score": 0.6906840534865735,
+      "variance": 0.0
+    },
+    {
+      "disease": "hyperalphalipoproteinemia",
+      "total_score": 0.6585005314682518,
+      "variance": 0.0
+    },
+    {
+      "disease": "peripheral resistance to thyroid hormones",
+      "total_score": 0.5794173316293354,
+      "variance": 0.0
+    },
+    {
+      "disease": "kidney fibrosarcoma",
+      "total_score": 0.5652173913043478,
+      "variance": 0.0
+    },
+    {
+      "disease": "orofaciodigital syndrome type 14",
+      "total_score": 0.5479315214568296,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with microcephaly, cortical malformations, and spasticity",
+      "total_score": 0.5237070481291808,
+      "variance": 0.0
+    },
+    {
+      "disease": "Joubert syndrome 5",
+      "total_score": 0.5210886374481468,
+      "variance": 0.0
+    },
+    {
+      "disease": "Garg-Mishra progeroid syndrome",
+      "total_score": 0.5169101218215649,
+      "variance": 0.0
+    },
+    {
+      "disease": "3-hydroxyacyl-CoA dehydrogenase deficiency",
+      "total_score": 0.5167797182627076,
+      "variance": 0.0
+    },
+    {
+      "disease": "syndromic X-linked intellectual disability 12",
+      "total_score": 0.5045893431875071,
+      "variance": 0.0
+    },
+    {
+      "disease": "vagina sarcoma",
+      "total_score": 0.5,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital disorder of glycosylation, type IIq",
+      "total_score": 0.4952808149847018,
+      "variance": 0.1918887755411748
+    },
+    {
+      "disease": "ciliary dyskinesia, primary, 37",
+      "total_score": 0.4766430635431689,
+      "variance": 0.2267399611179863
+    },
+    {
+      "disease": "vaginal disorder",
+      "total_score": 0.4665406011670301,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "ALG6-congenital disorder of glycosylation 1C",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "acute ethmoiditis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitral valve prolapse, myxomatous 2",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "inborn disorder of cobalamin metabolism and transport",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "methylcobalamin deficiency type cblDv1",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "vitamin B12-responsive methylmalonic acidemia, type cblDv2",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitochondrial DNA depletion syndrome, hepatocerebrorenal form",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "synovial plica syndrome",
+      "total_score": 0.9917355371900828,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital nervous system disorder",
+      "total_score": 0.977572945722995,
+      "variance": 0.0071565590094242
+    },
+    {
+      "disease": "neurodevelopmental disorder with hypotonia and characteristic brain abnormalities",
+      "total_score": 0.9587068478794932,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitochondrial short-chain Enoyl-Coa hydratase 1 deficiency",
+      "total_score": 0.957769997805397,
+      "variance": 0.0
+    },
+    {
+      "disease": "developmental delay with or without intellectual impairment or behavioral abnormalities",
+      "total_score": 0.9577304780247676,
+      "variance": 0.0
+    },
+    {
+      "disease": "glomuvenous malformation",
+      "total_score": 0.9182105057314158,
+      "variance": 0.0
+    },
+    {
+      "disease": "normophosphatemic familial tumoral calcinosis",
+      "total_score": 0.8974523989471199,
+      "variance": 0.0
+    },
+    {
+      "disease": "laryngeal abductor paralysis-intellectual disability syndrome",
+      "total_score": 0.8604326587578511,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability-obesity-prognathism-eye and skin anomalies syndrome",
+      "total_score": 0.8287441625333053,
+      "variance": 0.0
+    },
+    {
+      "disease": "3-methylglutaconic aciduria with deafness, encephalopathy, and Leigh-like syndrome",
+      "total_score": 0.8264737194928361,
+      "variance": 0.0
+    },
+    {
+      "disease": "lymphedema-distichiasis syndrome",
+      "total_score": 0.815405227811431,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitochondrial DNA depletion syndrome 19",
+      "total_score": 0.7895714086775194,
+      "variance": 0.0
+    },
+    {
+      "disease": "progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal dominant 3",
+      "total_score": 0.7333685879624363,
+      "variance": 0.0
+    },
+    {
+      "disease": "ALG2-congenital disorder of glycosylation",
+      "total_score": 0.7161081740956073,
+      "variance": 0.0
+    },
+    {
+      "disease": "mucopolysaccharidosis type 3C",
+      "total_score": 0.7116335552514401,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with seizures and gingival overgrowth",
+      "total_score": 0.6689320125342512,
+      "variance": 0.0
+    },
+    {
+      "disease": "familial monosomy 7 syndrome",
+      "total_score": 0.6666666666666667,
+      "variance": 0.0
+    },
+    {
+      "disease": "Klippel-Feil anomaly-myopathy-facial dysmorphism syndrome",
+      "total_score": 0.6517116893713316,
+      "variance": 0.0
+    },
+    {
+      "disease": "lathosterolosis",
+      "total_score": 0.6035994085371399,
+      "variance": 0.0
+    },
+    {
+      "disease": "MIRAGE syndrome",
+      "total_score": 0.5865048924719203,
+      "variance": 0.3047263581746185
+    },
+    {
+      "disease": "Aicardi-Goutieres syndrome 9",
+      "total_score": 0.5520973114752599,
+      "variance": 0.0
+    },
+    {
+      "disease": "quadriplegia",
+      "total_score": 0.5358639203383602,
+      "variance": 0.0
+    },
+    {
+      "disease": "Usher syndrome type 1C",
+      "total_score": 0.5339263310668548,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "combined osteogenesis imperfecta and Ehlers-Danlos syndrome 2",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "cerebellar ataxia, brain abnormalities, and cardiac conduction defects",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hereditary thrombophilia due to congenital histidine-rich (poly-L) glycoprotein deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "NAD(P)HX dehydratase deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "familial clubfoot due to PITX1 point mutation",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "inborn disorder of proline metabolism",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Prader-Willi syndrome due to translocation",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "PYCR1-related de Barsy syndrome",
+      "total_score": 0.9980974855370408,
+      "variance": 0.0
+    },
+    {
+      "disease": "21q22.11q22.12 microdeletion syndrome",
+      "total_score": 0.92240711360366,
+      "variance": 0.0
+    },
+    {
+      "disease": "neuromuscular disease and ocular or auditory anomalies with or without seizures",
+      "total_score": 0.9139458474891188,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal recessive cutis laxa type 2B",
+      "total_score": 0.8361812566536746,
+      "variance": 0.0
+    },
+    {
+      "disease": "cardiac valvular defect",
+      "total_score": 0.8333333333333334,
+      "variance": 0.0
+    },
+    {
+      "disease": "developmental and epileptic encephalopathy, 66",
+      "total_score": 0.8297642470616221,
+      "variance": 0.0
+    },
+    {
+      "disease": "recurrent metabolic encephalomyopathic crises-rhabdomyolysis-cardiac arrhythmia-intellectual disability syndrome",
+      "total_score": 0.752598288530025,
+      "variance": 0.0
+    },
+    {
+      "disease": "developmental delay with autism spectrum disorder and gait instability",
+      "total_score": 0.7101891489180571,
+      "variance": 0.2475381952164379
+    },
+    {
+      "disease": "Ehlers-Danlos syndrome, cardiac valvular type",
+      "total_score": 0.6982282670249685,
+      "variance": 0.2851560214445843
+    },
+    {
+      "disease": "primary coenzyme Q10 deficiency 8",
+      "total_score": 0.6638000640549636,
+      "variance": 0.0
+    },
+    {
+      "disease": "obsolete primary parathyroid hyperplasia",
+      "total_score": 0.6503067484662582,
+      "variance": 0.0
+    },
+    {
+      "disease": "cerebellar dysfunction with variable cognitive and behavioral abnormalities",
+      "total_score": 0.5922903095388401,
+      "variance": 0.0
+    },
+    {
+      "disease": "encephalomalacia",
+      "total_score": 0.5665722379603412,
+      "variance": 0.0
+    },
+    {
+      "disease": "immunoskeletal dysplasia with neurodevelopmental abnormalities",
+      "total_score": 0.5663055268273754,
+      "variance": 0.275843348246033
+    },
+    {
+      "disease": "mild hyperphenylalaninemia",
+      "total_score": 0.5437563851623561,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitochondrial DNA depletion syndrome, myopathic form",
+      "total_score": 0.5378104581983075,
+      "variance": 0.3148376378116796
+    },
+    {
+      "disease": "hyperphenylalaninemia due to DNAJC12 deficiency",
+      "total_score": 0.5191760540929091,
+      "variance": 0.2776295281755149
+    },
+    {
+      "disease": "GM3 synthase deficiency",
+      "total_score": 0.5131594645011481,
+      "variance": 0.0
+    },
+    {
+      "disease": "familial isolated hypoparathyroidism due to impaired PTH secretion",
+      "total_score": 0.5,
+      "variance": 0.0
+    },
+    {
+      "disease": "Ehlers-Danlos/osteogenesis imperfecta syndrome",
+      "total_score": 0.4987531172069825,
+      "variance": 0.0
+    },
+    {
+      "disease": "periodic limb movement disorder",
+      "total_score": 0.4937000785080483,
+      "variance": 0.0
+    },
+    {
+      "disease": "thyroid hemiagenesis",
+      "total_score": 0.4744771993500605,
+      "variance": 0.0
+    },
+    {
+      "disease": "Sjogren-Larsson syndrome",
+      "total_score": 0.433665640410585,
+      "variance": 0.329963543208807
+    }
+  ],
+  [
+    {
+      "disease": "lumpy skin disease",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "peritoneal benign neoplasm",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "lung PEComa",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hemorrhagic disease due to alpha-1-antitrypsin Pittsburgh mutation",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitochondrial DNA depletion syndrome, encephalomyopathic form",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "testicular non-seminomatous germ cell cancer",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "recombinase activating gene 2 deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "combined oxidative phosphorylation deficiency 54",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "pyruvate carboxylase deficiency, severe neonatal type",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "pyruvate carboxylase deficiency, infantile form",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "pyruvate carboxylase deficiency, benign type",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mediastinal lipomatosis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "small intestinal tubular adenoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "precursor T-lymphoblastic lymphoma/leukemia",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "meralgia paresthetica",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "ovarian serous adenofibroma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "severe hemophilia B",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hyperimmunoglobulin syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "T+ B+ severe combined immunodeficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "intraneural perineurioma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "moderately severe hemophilia B",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mild hemophilia B",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "symptomatic form of hemophilia B in female carriers",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "thrombophilia, X-linked, due to factor 9 defect",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with language delay and variable cognitive abnormalities",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "extrahepatic bile duct adenosquamous carcinoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "extrahepatic bile duct squamous cell carcinoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "adult Fanconi syndrome",
+      "total_score": 0.9944751381215468,
+      "variance": 0.0
+    },
+    {
+      "disease": "trachea carcinoma",
+      "total_score": 0.9881422924901184,
+      "variance": 0.0
+    },
+    {
+      "disease": "arthritis, sacroiliac",
+      "total_score": 0.9879253567508232,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "nail tumor",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hyperzincemia with functional zinc depletion",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "46,XX disorder of sex development",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "combined oxidative phosphorylation defect type 4",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "basal ganglia cerebrovascular disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "SIN3A-related intellectual disability syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with hypotonia, neonatal respiratory insufficiency, and thermodysregulation",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "obsolete recurrent infections-inflammatory syndrome due to zinc metabolism disorder syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "X-linked intellectual disability, Stevenson type",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mosaic trisomy 15",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual developmental disorder with gastrointestinal difficulties and high pain threshold",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "apocrine sweat gland cancer",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "cardiomyopathy, dilated, 1MM",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability, autosomal recessive 27",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hypertelorism and tetralogy of fallot",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal dominant Ehlers-Danlos syndrome, vascular type",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "sporadic hemiplegic migraine",
+      "total_score": 0.9955906925644072,
+      "variance": 0.0
+    },
+    {
+      "disease": "muscular dystrophy-dystroglycanopathy, type C",
+      "total_score": 0.9935205183585312,
+      "variance": 0.0
+    },
+    {
+      "disease": "short QT syndrome type 2",
+      "total_score": 0.9933769247071808,
+      "variance": 0.0
+    },
+    {
+      "disease": "acquired metabolic disease",
+      "total_score": 0.9689922480620156,
+      "variance": 0.0
+    },
+    {
+      "disease": "polymicrogyria with or without vascular-type Ehlers-Danlos syndrome",
+      "total_score": 0.961539904664726,
+      "variance": 0.0
+    },
+    {
+      "disease": "Fanconi anemia complementation group N",
+      "total_score": 0.9609005527695867,
+      "variance": 0.0
+    },
+    {
+      "disease": "Joubert syndrome 40",
+      "total_score": 0.9590364603342216,
+      "variance": 0.0
+    },
+    {
+      "disease": "Kohlschutter-Tonz syndrome-like",
+      "total_score": 0.943842842945783,
+      "variance": 0.0
+    },
+    {
+      "disease": "pontocerebellar hypoplasia type 6",
+      "total_score": 0.9361991702006766,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with neuromuscular and skeletal abnormalities",
+      "total_score": 0.9259784559591052,
+      "variance": 0.0
+    },
+    {
+      "disease": "leukocyte disorder",
+      "total_score": 0.923190546528804,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with seizures, spasticity, and complete or partial agenesis of the corpus callosum",
+      "total_score": 0.9165403151139994,
+      "variance": 0.0
+    },
+    {
+      "disease": "syndromic X-linked intellectual disability Nascimento type",
+      "total_score": 0.9093505145607068,
+      "variance": 0.2812233588413277
+    },
+    {
+      "disease": "hereditary lipodystrophy",
+      "total_score": 0.9056603773584908,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "pontocerebellar hypoplasia type 8",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "visceral neuropathy, familial",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "isolated autosomal dominant hypomagnesemia, Glaudemans type",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "partial corpus callosum agenesis-cerebellar vermis hypoplasia with posterior fossa cysts syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "TRPV4-related bone disorder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "skeletal dysplasia and progressive central nervous system degeneration, lethal",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "inherited cutis laxa",
+      "total_score": 0.99601593625498,
+      "variance": 0.0
+    },
+    {
+      "disease": "protein Z deficiency",
+      "total_score": 0.9920853028470924,
+      "variance": 0.0
+    },
+    {
+      "disease": "hypomyelinating leukodystrophy 10",
+      "total_score": 0.9784180172661348,
+      "variance": 0.0
+    },
+    {
+      "disease": "inborn disorder of lysine and hydroxylysine metabolism",
+      "total_score": 0.9696969696969698,
+      "variance": 0.0
+    },
+    {
+      "disease": "peroxisome biogenesis disorder 14B",
+      "total_score": 0.9578678785230962,
+      "variance": 0.0
+    },
+    {
+      "disease": "Imagawa-Matsumoto syndrome",
+      "total_score": 0.9496252588858232,
+      "variance": 0.0
+    },
+    {
+      "disease": "Marbach-Schaaf neurodevelopmental syndrome",
+      "total_score": 0.9481396176789326,
+      "variance": 0.0
+    },
+    {
+      "disease": "Zimmermann-Laband syndrome 2",
+      "total_score": 0.9405040812914356,
+      "variance": 0.0
+    },
+    {
+      "disease": "Shashi-Pena syndrome",
+      "total_score": 0.8797438869434177,
+      "variance": 0.0
+    },
+    {
+      "disease": "Atelis syndrome 2",
+      "total_score": 0.8701413808881128,
+      "variance": 0.0
+    },
+    {
+      "disease": "short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay",
+      "total_score": 0.8597993852361743,
+      "variance": 0.0
+    },
+    {
+      "disease": "hypertrophic cardiomyopathy 14",
+      "total_score": 0.8438671109491288,
+      "variance": 0.0
+    },
+    {
+      "disease": "anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome",
+      "total_score": 0.8373191552458219,
+      "variance": 0.0
+    },
+    {
+      "disease": "synovial bursa disorder",
+      "total_score": 0.7868187331245841,
+      "variance": 0.0
+    },
+    {
+      "disease": "syndromic X-linked intellectual disability Claes-Jensen type",
+      "total_score": 0.7801303533000504,
+      "variance": 0.0
+    },
+    {
+      "disease": "shone complex",
+      "total_score": 0.7698504027617953,
+      "variance": 0.0
+    },
+    {
+      "disease": "joint laxity, short stature, and myopia",
+      "total_score": 0.7348810081193468,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital heart defects and ectodermal dysplasia",
+      "total_score": 0.7209118471303682,
+      "variance": 0.0
+    },
+    {
+      "disease": "mandibuloacral dysplasia progeroid syndrome",
+      "total_score": 0.7171945052528945,
+      "variance": 0.2341491883874413
+    },
+    {
+      "disease": "autosomal recessive nonsyndromic hearing loss 7",
+      "total_score": 0.7156859055186225,
+      "variance": 0.0
+    },
+    {
+      "disease": "methylmalonic aciduria, cblA type",
+      "total_score": 0.7034899396305376,
+      "variance": 0.0
+    },
+    {
+      "disease": "Donnai-Barrow syndrome",
+      "total_score": 0.6784882056630676,
+      "variance": 0.0
+    },
+    {
+      "disease": "mutism",
+      "total_score": 0.6717403283236928,
+      "variance": 0.0015611428567063
+    },
+    {
+      "disease": "mitochondrial DNA depletion syndrome 11",
+      "total_score": 0.6681247024923076,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "mitochondrial complex 1 deficiency, nuclear type 34",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitochondrial complex I deficiency, nuclear type",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal recessive spastic paraplegia type 59",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "malonic aciduria",
+      "total_score": 0.9799844851953432,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with short stature, prominent forehead, and feeding difficulties",
+      "total_score": 0.954164394846679,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with hypotonia, facial dysmorphism, and brain abnormalities",
+      "total_score": 0.919682022767914,
+      "variance": 0.0
+    },
+    {
+      "disease": "RIN2 syndrome",
+      "total_score": 0.8956391514919494,
+      "variance": 0.0
+    },
+    {
+      "disease": "multiple mitochondrial dysfunctions syndrome 1",
+      "total_score": 0.8942013092690736,
+      "variance": 0.0
+    },
+    {
+      "disease": "blistering, acantholytic, of oral and laryngeal mucosa",
+      "total_score": 0.8729318097938453,
+      "variance": 0.0
+    },
+    {
+      "disease": "recessive intellectual disability-motor dysfunction-multiple joint contractures syndrome",
+      "total_score": 0.8480176211453746,
+      "variance": 0.0
+    },
+    {
+      "disease": "vitamin K-dependent clotting factors, combined deficiency of, type 1",
+      "total_score": 0.7524228860628358,
+      "variance": 0.0
+    },
+    {
+      "disease": "childhood encephalopathy due to thiamine pyrophosphokinase deficiency",
+      "total_score": 0.7376182818175095,
+      "variance": 0.0
+    },
+    {
+      "disease": "body skin hyperlaxity due to vitamin K-dependent coagulation factor deficiency",
+      "total_score": 0.7224831418459486,
+      "variance": 0.0
+    },
+    {
+      "disease": "eye accommodation disease",
+      "total_score": 0.708514737196671,
+      "variance": 0.0
+    },
+    {
+      "disease": "pulmonary hypertension, primary, 2",
+      "total_score": 0.67447733225382,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital muscular dystrophy with intellectual disability and severe epilepsy",
+      "total_score": 0.6328569907813718,
+      "variance": 0.0
+    },
+    {
+      "disease": "trigeminal nerve disorder",
+      "total_score": 0.5690718252377701,
+      "variance": 0.0
+    },
+    {
+      "disease": "Pseudofolliculitis barbae",
+      "total_score": 0.5675081854680217,
+      "variance": 0.0
+    },
+    {
+      "disease": "Dorfman-Chanarin disease",
+      "total_score": 0.5560279960159733,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodegeneration, infantile-onset, biotin-responsive",
+      "total_score": 0.5549990067785308,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with poor growth, large ears, and dysmorphic facies",
+      "total_score": 0.5508110459470696,
+      "variance": 0.0
+    },
+    {
+      "disease": "neonatal diabetes mellitus with congenital hypothyroidism",
+      "total_score": 0.5389855558149848,
+      "variance": 0.0
+    },
+    {
+      "disease": "Houge-Janssens syndrome",
+      "total_score": 0.5263157894736842,
+      "variance": 0.0
+    },
+    {
+      "disease": "hereditary spastic paraplegia 18",
+      "total_score": 0.509185451687518,
+      "variance": 0.2475594376737191
+    },
+    {
+      "disease": "inborn disorder of amino acid metabolism",
+      "total_score": 0.5,
+      "variance": 0.0
+    },
+    {
+      "disease": "congenital vitamin K-dependent coagulation factors deficiency",
+      "total_score": 0.4742397259707367,
+      "variance": 0.0
+    },
+    {
+      "disease": "vaginal disorder",
+      "total_score": 0.4665406011670301,
+      "variance": 0.0
+    },
+    {
+      "disease": "helicoid peripapillary chorioretinal degeneration",
+      "total_score": 0.4410166839661695,
+      "variance": 0.0
+    },
+    {
+      "disease": "multiple benign circumferential skin creases on limbs",
+      "total_score": 0.4245939538689844,
+      "variance": 0.0
+    },
+    {
+      "disease": "Joubert syndrome 37",
+      "total_score": 0.4072912939710824,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "fallopian tube serous adenofibroma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Hermansky-Pudlak syndrome 10",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "malignant ear neoplasm",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Brachymorphism-onychodysplasia-dysphalangism syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "obsolete congenital and infantile nephrotic syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "disorder of phenylalanine metabolism",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "mild phenylketonuria",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Xq25 microduplication syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "spastic paraplegia 90B, autosomal recessive",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "nystagmus 1, congenital, X-linked",
+      "total_score": 0.9636246373801094,
+      "variance": 0.0
+    },
+    {
+      "disease": "oculomotor nerve paralysis",
+      "total_score": 0.9429764551039842,
+      "variance": 0.0
+    },
+    {
+      "disease": "psychomotor regression-oculomotor apraxia-movement disorder-nephropathy syndrome",
+      "total_score": 0.9311552088497856,
+      "variance": 0.0
+    },
+    {
+      "disease": "short stature-brachydactyly-obesity-global developmental delay syndrome",
+      "total_score": 0.9248886044802296,
+      "variance": 0.0
+    },
+    {
+      "disease": "spastic paraplegia 90A, autosomal dominant",
+      "total_score": 0.8687029077293181,
+      "variance": 0.0
+    },
+    {
+      "disease": "cobblestone lissencephaly",
+      "total_score": 0.7990893376761428,
+      "variance": 0.0
+    },
+    {
+      "disease": "sulfite oxidase deficiency due to molybdenum cofactor deficiency type B",
+      "total_score": 0.7727340182491188,
+      "variance": 0.0
+    },
+    {
+      "disease": "de Quervain disease",
+      "total_score": 0.7642623981680757,
+      "variance": 0.0
+    },
+    {
+      "disease": "Yoon-Bellen neurodevelopmental syndrome",
+      "total_score": 0.7523495276175506,
+      "variance": 0.2154236844823442
+    },
+    {
+      "disease": "freemartinism",
+      "total_score": 0.7142857142857143,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal recessive cutis laxa type 2A",
+      "total_score": 0.7064677592490741,
+      "variance": 0.0
+    },
+    {
+      "disease": "developmental and epileptic encephalopathy, 88",
+      "total_score": 0.7001457340379742,
+      "variance": 0.0
+    },
+    {
+      "disease": "dental enamel hypoplasia",
+      "total_score": 0.6752177337948302,
+      "variance": 0.0977749299727884
+    },
+    {
+      "disease": "Goldberg-Shprintzen syndrome",
+      "total_score": 0.6408379060459674,
+      "variance": 0.0
+    },
+    {
+      "disease": "classic phenylketonuria",
+      "total_score": 0.617947008420377,
+      "variance": 0.0
+    },
+    {
+      "disease": "retinitis pigmentosa 89",
+      "total_score": 0.5865718828657271,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitochondrial complex V (ATP synthase) deficiency, nuclear type 4A",
+      "total_score": 0.5834177589414343,
+      "variance": 0.171380184865024
+    },
+    {
+      "disease": "binocular vision disease",
+      "total_score": 0.5687377599345923,
+      "variance": 0.0
+    },
+    {
+      "disease": "malignant exocrine pancreas neoplasm",
+      "total_score": 0.5281463292749449,
+      "variance": 0.0
+    },
+    {
+      "disease": "severe growth deficiency-strabismus-extensive dermal melanocytosis-intellectual disability syndrome",
+      "total_score": 0.5203933598666791,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "autosomal dominant Charcot-Marie-Tooth disease type 2 due to KIF5A mutation",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "atypical autism",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "14q11.2 microduplication syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "arthrogryposis multiplex congenita 5",
+      "total_score": 0.9212396552337296,
+      "variance": 0.0
+    },
+    {
+      "disease": "cephalocele",
+      "total_score": 0.9079903147699764,
+      "variance": 0.0
+    },
+    {
+      "disease": "developmental and epileptic encephalopathy, 83",
+      "total_score": 0.8491721159567915,
+      "variance": 0.0
+    },
+    {
+      "disease": "inherited neurodegenerative disorder",
+      "total_score": 0.8285738641207065,
+      "variance": 0.0
+    },
+    {
+      "disease": "combined oxidative phosphorylation defect type 14",
+      "total_score": 0.7363251603821002,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability, autosomal dominant 40",
+      "total_score": 0.6148756812299868,
+      "variance": 0.0
+    },
+    {
+      "disease": "hereditary spastic paraplegia 77",
+      "total_score": 0.6032840992744561,
+      "variance": 0.0
+    },
+    {
+      "disease": "Hern\u00e1ndez-Aguirre Negrete syndrome",
+      "total_score": 0.5602221100454317,
+      "variance": 0.0
+    },
+    {
+      "disease": "hereditary spastic paraplegia 10",
+      "total_score": 0.5273827206634135,
+      "variance": 0.0
+    },
+    {
+      "disease": "Bryant-Li-Bhoj neurodevelopmental syndrome 2",
+      "total_score": 0.5014573082853242,
+      "variance": 0.0
+    },
+    {
+      "disease": "1p21.3 microdeletion syndrome",
+      "total_score": 0.5002353494939987,
+      "variance": 0.0
+    },
+    {
+      "disease": "mixed germ cell-sex cord-stromal tumor",
+      "total_score": 0.5,
+      "variance": 0.0
+    },
+    {
+      "disease": "auditory system disorder",
+      "total_score": 0.490278652875351,
+      "variance": 0.0
+    },
+    {
+      "disease": "specific language disorder",
+      "total_score": 0.475308641975309,
+      "variance": 0.0
+    },
+    {
+      "disease": "Buratti-Harel syndrome",
+      "total_score": 0.4287890612608464,
+      "variance": 0.0
+    },
+    {
+      "disease": "Bryant-Li-Bhoj neurodevelopmental syndrome 1",
+      "total_score": 0.3917126067410573,
+      "variance": 0.0
+    },
+    {
+      "disease": "multiple pterygium syndrome",
+      "total_score": 0.3660491026812759,
+      "variance": 0.0
+    },
+    {
+      "disease": "childhood apraxia of speech",
+      "total_score": 0.3647635016371906,
+      "variance": 0.0
+    },
+    {
+      "disease": "external ear disorder",
+      "total_score": 0.3582471285675807,
+      "variance": 0.0
+    },
+    {
+      "disease": "Nance-Horan syndrome",
+      "total_score": 0.3567336714096687,
+      "variance": 0.0
+    },
+    {
+      "disease": "heart-hand syndrome",
+      "total_score": 0.3561291500840872,
+      "variance": 0.0
+    },
+    {
+      "disease": "isolated dystonia",
+      "total_score": 0.3529411764705882,
+      "variance": 0.0
+    },
+    {
+      "disease": "Baraitser-Winter cerebrofrontofacial syndrome",
+      "total_score": 0.3480506653623203,
+      "variance": 0.0
+    },
+    {
+      "disease": "neonatal glycine encephalopathy",
+      "total_score": 0.3333333333333333,
+      "variance": 0.0
+    },
+    {
+      "disease": "pseudohypoaldosteronism type 1",
+      "total_score": 0.332998102755452,
+      "variance": 0.0
+    },
+    {
+      "disease": "cataract-aberrant oral frenula-growth delay syndrome",
+      "total_score": 0.3219688208354535,
+      "variance": 0.0
+    },
+    {
+      "disease": "clear cell chondrosarcoma",
+      "total_score": 0.3010817307692308,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "alternating hemiplegia",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "aphonia-deafness-retinal dystrophy-bifid halluces-intellectual disability syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "isolated congenital breast hypoplasia/aplasia",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "recombinase activating gene 1 deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "developmental delay, impaired speech, and behavioral abnormalities",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "hereditary spastic paraplegia 33",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "obsolete metopic ridging-ptosis-facial dysmorphism syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "beta-ureidopropionase deficiency",
+      "total_score": 0.9953414985546108,
+      "variance": 0.0
+    },
+    {
+      "disease": "microcephaly-complex motor and sensory axonal neuropathy syndrome",
+      "total_score": 0.9919427036705462,
+      "variance": 0.0
+    },
+    {
+      "disease": "glycogen storage disease due to muscle beta-enolase deficiency",
+      "total_score": 0.935039238263512,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability, autosomal dominant 20",
+      "total_score": 0.9259888163398138,
+      "variance": 0.0
+    },
+    {
+      "disease": "5q14.3 microdeletion syndrome",
+      "total_score": 0.8290192792037812,
+      "variance": 0.0
+    },
+    {
+      "disease": "polyglucosan body myopathy",
+      "total_score": 0.8140277963877465,
+      "variance": 0.0
+    },
+    {
+      "disease": "neurodevelopmental disorder with growth retardation, dysmorphic facies, and corpus callosum abnormalities",
+      "total_score": 0.8121789053390746,
+      "variance": 0.0
+    },
+    {
+      "disease": "animal phobia",
+      "total_score": 0.7777777777777779,
+      "variance": 6.146517104494377e-05
+    },
+    {
+      "disease": "X-linked cerebral-cerebellar-coloboma syndrome syndrome",
+      "total_score": 0.767948548167,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual developmental disorder with or without epilepsy or cerebellar ataxia",
+      "total_score": 0.7260570727087147,
+      "variance": 0.0
+    },
+    {
+      "disease": "mucopolysaccharidosis type 2, severe form",
+      "total_score": 0.6521099907993211,
+      "variance": 0.0
+    },
+    {
+      "disease": "deafness-intellectual disability, Martin-Probst type syndrome",
+      "total_score": 0.5867740539256043,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability, autosomal dominant 42",
+      "total_score": 0.5822744976645429,
+      "variance": 0.0
+    },
+    {
+      "disease": "combined oxidative phosphorylation defect type 11",
+      "total_score": 0.5736063929391333,
+      "variance": 0.0
+    },
+    {
+      "disease": "developmental and epileptic encephalopathy 99",
+      "total_score": 0.5685266763346943,
+      "variance": 0.0
+    },
+    {
+      "disease": "cerebellar ataxia-areflexia-pes cavus-optic atrophy-sensorineural hearing loss syndrome",
+      "total_score": 0.5682388337364134,
+      "variance": 0.0
+    },
+    {
+      "disease": "pontocerebellar hypoplasia type 7",
+      "total_score": 0.5612043160982745,
+      "variance": 0.0
+    },
+    {
+      "disease": "hypotrichosis-lymphedema-telangiectasia syndrome (grouping)",
+      "total_score": 0.5576605199475306,
+      "variance": 0.2836977006874543
+    },
+    {
+      "disease": "lacrimal gland mucoepidermoid carcinoma",
+      "total_score": 0.5555555555555556,
+      "variance": 0.0
+    },
+    {
+      "disease": "oculogyric crisis",
+      "total_score": 0.5408163265306123,
+      "variance": 0.0
+    },
+    {
+      "disease": "mucopolysaccharidosis type 2, attenuated form",
+      "total_score": 0.5272203886668708,
+      "variance": 0.0
+    },
+    {
+      "disease": "breasts and/or nipples, aplasia or hypoplasia of, 2",
+      "total_score": 0.5247178149073716,
+      "variance": 0.0
+    },
+    {
+      "disease": "microcytic anemia",
+      "total_score": 0.5243496472433687,
+      "variance": 0.0801153034147729
+    }
+  ],
+  [
+    {
+      "disease": "disorder of zinc metabolism",
+      "total_score": 1.0,
+      "variance": 4.552975632958799e-06
+    },
+    {
+      "disease": "aorta angiosarcoma",
+      "total_score": 1.0,
+      "variance": 4.370856607640447e-06
+    },
+    {
+      "disease": "inverted transitional cell papilloma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "low grade ependymoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "papilloma of eyelid",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "colorectal medullary carcinoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "middle ear cancer",
+      "total_score": 1.0,
+      "variance": 8.366092725561157e-07
+    },
+    {
+      "disease": "obsolete nodulosis-arthropathy-osteolysis syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "malignant teratoma of testis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Aicardi-Goutieres syndrome 8",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "ethmoid sinusitis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "glycoproteinosis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "gastroduodenal Crohn disease",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "myofibromatosis, infantile, 2",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "non-infectious anterior uveitis",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Beckwith-Wiedemann syndrome due to NSD1 mutation",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "NIK deficiency",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "diencephalic astrocytomas",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "chronic intestinal vascular insufficiency",
+      "total_score": 1.0,
+      "variance": 1.1655617620374526e-05
+    },
+    {
+      "disease": "non-neoplastic nevus",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "brachydactyly-syndactyly-oligodactyly syndrome",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "non-syndromic brachydactyly",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "benign neoplasm of gallbladder",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "zygodactyly type 3",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "cortical senile cataract",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "myopathy, congenital, with excess of muscle spindles",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "HSD10 disease, atypical type",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "prostate adenoid cystic carcinoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "ovarian endometrioid stromal and related neoplasms",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "chlamydiaceae infections",
+      "total_score": 1.0,
+      "variance": 0.0
+    }
+  ],
+  [
+    {
+      "disease": "leukodystrophy, hypomyelinating, 22",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "basaloid large cell lung carcinoma",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "familial temporal lobe epilepsy 5",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "desmin-related myopathy with Mallory body-like inclusions",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "thyroid hormone metabolism, abnormal",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal recessive severe congenital neutropenia",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "familial cystic renal disease",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "combined oxidative phosphorylation deficiency 47",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Rajab interstitial lung disease with brain calcifications 1",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "Rajab interstitial lung disease with brain calcifications",
+      "total_score": 1.0,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal recessive cerebral atrophy",
+      "total_score": 0.9960208903257896,
+      "variance": 0.0
+    },
+    {
+      "disease": "progressive bulbar palsy of childhood",
+      "total_score": 0.9871191845201224,
+      "variance": 0.0
+    },
+    {
+      "disease": "autosomal recessive nonsyndromic hearing loss 31",
+      "total_score": 0.9858917283120296,
+      "variance": 0.0
+    },
+    {
+      "disease": "algoneurodystrophy",
+      "total_score": 0.9662620653809098,
+      "variance": 0.0
+    },
+    {
+      "disease": "exercise-induced malignant hyperthermia",
+      "total_score": 0.9042390727731608,
+      "variance": 0.0
+    },
+    {
+      "disease": "Radio-Tartaglia syndrome",
+      "total_score": 0.8871941064559783,
+      "variance": 0.0
+    },
+    {
+      "disease": "oculogastrointestinal-neurodevelopmental syndrome",
+      "total_score": 0.873138901107796,
+      "variance": 0.0
+    },
+    {
+      "disease": "combined oxidative phosphorylation deficiency 50",
+      "total_score": 0.8672504815581081,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitochondrial complex 1 deficiency, nuclear type 27",
+      "total_score": 0.8205791249240101,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual developmental disorder with autistic features and language delay, with or without seizures",
+      "total_score": 0.7785166449064771,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitochondrial myopathy-cerebellar ataxia-pigmentary retinopathy syndrome",
+      "total_score": 0.7604453254317013,
+      "variance": 0.0
+    },
+    {
+      "disease": "mitochondrial complex 5 (ATP synthase) deficiency nuclear type 5",
+      "total_score": 0.7520393035605233,
+      "variance": 0.0
+    },
+    {
+      "disease": "facial dysmorphism-lens dislocation-anterior segment abnormalities-spontaneous filtering blebs syndrome",
+      "total_score": 0.7085726442951056,
+      "variance": 0.0
+    },
+    {
+      "disease": "growth restriction, hypoplastic kidneys, alopecia, and distinctive facies",
+      "total_score": 0.6926123387939155,
+      "variance": 0.0
+    },
+    {
+      "disease": "leukodystrophy and acquired microcephaly with or without dystonia;",
+      "total_score": 0.6521125539793543,
+      "variance": 0.0
+    },
+    {
+      "disease": "severe X-linked mitochondrial encephalomyopathy",
+      "total_score": 0.6323311454264805,
+      "variance": 0.0
+    },
+    {
+      "disease": "intellectual disability, autosomal dominant 24",
+      "total_score": 0.629207995975348,
+      "variance": 0.0
+    },
+    {
+      "disease": "ichthyotic keratoderma, spasticity, hypomyelination, and dysmorphic facial features",
+      "total_score": 0.6281327237302271,
+      "variance": 0.0
+    },
+    {
+      "disease": "DNA ligase IV deficiency",
+      "total_score": 0.6136896717822657,
+      "variance": 0.0
+    },
+    {
+      "disease": "combined oxidative phosphorylation deficiency 36",
+      "total_score": 0.603268178154814,
+      "variance": 0.0
+    }
+  ]
+]
